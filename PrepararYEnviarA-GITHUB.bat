@@ -4,7 +4,7 @@ setlocal EnableDelayedExpansion
 REM ================================
 REM 🌎 VARIABLES GLOBALES
 REM ================================
-set "dirProyecto=C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiCompendio"
+set "dirProyecto=C:\MEDIOS\ProyectosArduinoFZ\1-ProyectosESP-GitHub\MiCompendio"
 set "urlRemoto=https://github.com/usresp/MiCompendio.git"
 
 REM ================================

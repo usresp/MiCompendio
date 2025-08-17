@@ -170,6 +170,8 @@
 /Imagenes/Curiosidades/Curiosidad1.jpg
 /Imagenes/Curiosidades/Curiosidad2.jpg
 /Imagenes/Curiosidades/Curiosidad3.jpg
+/Imagenes/Iconos/ActualizarFestivos.jpg
+/Imagenes/Iconos/ActualizarFestivos80x70.jpg
 /Imagenes/Iconos/Acuario.jpg
 /Imagenes/Iconos/Acuario80x70.jpg
 /Imagenes/Iconos/AlbertEinstein80x70.jpg
@@ -179,7 +181,8 @@
 /Imagenes/Iconos/ApagarPantalla.jpg
 /Imagenes/Iconos/ApagarPantalla80x70.jpg
 /Imagenes/Iconos/Arcade.jpg
-/Imagenes/Iconos/Arcade80x70.jpg
+/Imagenes/Iconos/Arcade80x70-OFF.jpg
+/Imagenes/Iconos/Arcade80x70-ON.jpg
 /Imagenes/Iconos/Arcade80x70Copia.jpg
 /Imagenes/Iconos/BrocoliOpcion.jpg
 /Imagenes/Iconos/BrocoliSaludable.jpg
@@ -190,7 +193,8 @@
 /Imagenes/Iconos/Cerebro1.jpg
 /Imagenes/Iconos/CerebroOpcion.jpg
 /Imagenes/Iconos/Comfenalco.jpg
-/Imagenes/Iconos/Comfenalco80x70.jpg
+/Imagenes/Iconos/Comfenalco80x70-OFF.jpg
+/Imagenes/Iconos/Comfenalco80x70-ON.jpg
 /Imagenes/Iconos/Comfenalco80x70copia.jpg
 /Imagenes/Iconos/contraste1.jpg
 /Imagenes/Iconos/contraste80x70.jpg
@@ -199,12 +203,12 @@
 /Imagenes/Iconos/DepurarTabla.jpg
 /Imagenes/Iconos/DepurarTabla25x23.jpg
 /Imagenes/Iconos/EntradaAgua.jpg
+/Imagenes/Iconos/EntradaAgua80x70.jpg
 /Imagenes/Iconos/Expandir.jpg
 /Imagenes/Iconos/Expandir25x23.jpg
 /Imagenes/Iconos/Favorito1.jpg
 /Imagenes/Iconos/Favoritos25x23.jpg
 /Imagenes/Iconos/Favoritos80x70.jpg
-/Imagenes/Iconos/Festivos.jpg
 /Imagenes/Iconos/Flecha.jpg
 /Imagenes/Iconos/Flecha80x70.jpg
 /Imagenes/Iconos/Frases1.jpg
@@ -216,7 +220,8 @@
 /Imagenes/Iconos/Matera.jpg
 /Imagenes/Iconos/Matera1.jpg
 /Imagenes/Iconos/Nas1.jpg
-/Imagenes/Iconos/Nas80x70.jpg
+/Imagenes/Iconos/Nas80x70-OFF.jpg
+/Imagenes/Iconos/Nas80x70-ON.jpg
 /Imagenes/Iconos/Nas80x70copia.jpg
 /Imagenes/Iconos/Neuronas.jpg
 /Imagenes/Iconos/Neuronas1.jpg
