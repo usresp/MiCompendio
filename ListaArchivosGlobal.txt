@@ -1,3 +1,4 @@
+/InstruccionesOTABinario.txt
 /ListaArchivosGlobal-cruda.txt
 /PrepararYEnviarA-GITHUB.bat
 /Binarios/sketch_program.ino.bin
