@@ -4,8 +4,11 @@
 /PrepararYEnviarA-GITHUB.bat
 /Binarios/sketch_program.ino.bin
 /Binarios/Version.txt
+/Configuracion/Configuracion.txt
 /Configuracion/Leame.txt
+/Configuracion/Personalizado.txt
 /Configuracion/TemaColorCalendario.txt
+/Configuracion/Usuario.txt
 /Domotica/Dispositivos.txt
 /Domotica/Reg_sensores_incendio.txt
 /Domotica/Reg_sensores_jardin.txt
@@ -407,7 +410,9 @@
 /Imagenes/Saludable/Habitos97.jpg
 /Imagenes/Saludable/Habitos98.jpg
 /Imagenes/Saludable/Habitos99.jpg
+/Imagenes/Usuario/FerneyZabala.jpg
 /Listas/Curiosidades.txt
+/Listas/Favoritos.txt
 /Listas/Festivos.txt
 /Listas/Frases.txt
 /Listas/Habitos.txt
