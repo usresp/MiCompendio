@@ -50,6 +50,8 @@ C:\MEDIOS\ProyectosArduinoFZ\1-ProyectosESP-GitHub\MiCompendio\.git\objects\1f\d
 C:\MEDIOS\ProyectosArduinoFZ\1-ProyectosESP-GitHub\MiCompendio\.git\objects\22\14e81ff8ae031f19aa8034e014764198e95abf
 C:\MEDIOS\ProyectosArduinoFZ\1-ProyectosESP-GitHub\MiCompendio\.git\objects\23\990a577e336c87b61bc5725ebee02b7bfe339c
 C:\MEDIOS\ProyectosArduinoFZ\1-ProyectosESP-GitHub\MiCompendio\.git\objects\23\a1d98b61c36024a4a0ccd1fb77e9cd8a4da346
+C:\MEDIOS\ProyectosArduinoFZ\1-ProyectosESP-GitHub\MiCompendio\.git\objects\24\946268b0da724387585e8865d98fe0b83345bd
+C:\MEDIOS\ProyectosArduinoFZ\1-ProyectosESP-GitHub\MiCompendio\.git\objects\27\7d6b04807311bf5ff8ef54ae07784f84a97de5
 C:\MEDIOS\ProyectosArduinoFZ\1-ProyectosESP-GitHub\MiCompendio\.git\objects\29\08b9b1f2dbedff83f02e8528297d2c34aa4fea
 C:\MEDIOS\ProyectosArduinoFZ\1-ProyectosESP-GitHub\MiCompendio\.git\objects\29\62a07fcb40bb6d2d9ed577f362315e754bcbbd
 C:\MEDIOS\ProyectosArduinoFZ\1-ProyectosESP-GitHub\MiCompendio\.git\objects\2a\6cfb2b85cb75c48ca421a3a49a65d8fc90834f
@@ -70,6 +72,7 @@ C:\MEDIOS\ProyectosArduinoFZ\1-ProyectosESP-GitHub\MiCompendio\.git\objects\37\e
 C:\MEDIOS\ProyectosArduinoFZ\1-ProyectosESP-GitHub\MiCompendio\.git\objects\38\7a2a2496a8bde74fd78ba5434209bbe9ca2619
 C:\MEDIOS\ProyectosArduinoFZ\1-ProyectosESP-GitHub\MiCompendio\.git\objects\3b\d01575d390232ebf6030751f145d175b93e5fa
 C:\MEDIOS\ProyectosArduinoFZ\1-ProyectosESP-GitHub\MiCompendio\.git\objects\3c\acc0b93c9c9c03a72da624ca28a09ba5c1336f
+C:\MEDIOS\ProyectosArduinoFZ\1-ProyectosESP-GitHub\MiCompendio\.git\objects\3e\bec90511aa861aee339c5d13df5f51981cdddd
 C:\MEDIOS\ProyectosArduinoFZ\1-ProyectosESP-GitHub\MiCompendio\.git\objects\3f\10ffe7a4c473619c926cfb1e8d95e726e5a0ec
 C:\MEDIOS\ProyectosArduinoFZ\1-ProyectosESP-GitHub\MiCompendio\.git\objects\40\04bd60614961eb35e6d808cfb2ca57cfb3cf26
 C:\MEDIOS\ProyectosArduinoFZ\1-ProyectosESP-GitHub\MiCompendio\.git\objects\40\e6a98b1a8b753d2d59e6861a4072ede9437035
@@ -207,6 +210,7 @@ C:\MEDIOS\ProyectosArduinoFZ\1-ProyectosESP-GitHub\MiCompendio\.git\objects\ea\d
 C:\MEDIOS\ProyectosArduinoFZ\1-ProyectosESP-GitHub\MiCompendio\.git\objects\eb\ba2f9b6cca5101e01e85529d7e740f4fa602e2
 C:\MEDIOS\ProyectosArduinoFZ\1-ProyectosESP-GitHub\MiCompendio\.git\objects\ec\82b6b2c64330b1fba356f992e9a2cd463b80fb
 C:\MEDIOS\ProyectosArduinoFZ\1-ProyectosESP-GitHub\MiCompendio\.git\objects\ec\9b7c4b32f148d2fbdda2b08a9896a05c697a86
+C:\MEDIOS\ProyectosArduinoFZ\1-ProyectosESP-GitHub\MiCompendio\.git\objects\ed\825a1ea28062979fd954d401efc03ab21caa87
 C:\MEDIOS\ProyectosArduinoFZ\1-ProyectosESP-GitHub\MiCompendio\.git\objects\ed\b26ea7142b6e936aa1974b491560c7be07e1f9
 C:\MEDIOS\ProyectosArduinoFZ\1-ProyectosESP-GitHub\MiCompendio\.git\objects\ef\703e4ee1d9521ab638881ac878b6f0ac85139a
 C:\MEDIOS\ProyectosArduinoFZ\1-ProyectosESP-GitHub\MiCompendio\.git\objects\f7\ffda8aec40de39b2747697ceddd5f3ec280092
