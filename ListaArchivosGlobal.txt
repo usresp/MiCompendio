@@ -194,6 +194,7 @@
 /Imagenes/Iconos/Comfenalco.jpg
 /Imagenes/Iconos/Comfenalco80x70-OFF.jpg
 /Imagenes/Iconos/Comfenalco80x70-ON.jpg
+/Imagenes/Iconos/Comfenalco80x70.jpg
 /Imagenes/Iconos/Comfenalco80x70copia.jpg
 /Imagenes/Iconos/contraste1.jpg
 /Imagenes/Iconos/contraste80x70.jpg
@@ -214,8 +215,11 @@
 /Imagenes/Iconos/Frases80x70.jpg
 /Imagenes/Iconos/Incendio.jpg
 /Imagenes/Iconos/Incendio80x70.jpg
+/Imagenes/Iconos/Informacion.jpg
+/Imagenes/Iconos/Informacion80x70.jpg
 /Imagenes/Iconos/Interrogacion1.jpg
 /Imagenes/Iconos/Interrogacion80x70.jpg
+/Imagenes/Iconos/Leame.txt
 /Imagenes/Iconos/Matera.jpg
 /Imagenes/Iconos/Matera1.jpg
 /Imagenes/Iconos/Nas1.jpg
