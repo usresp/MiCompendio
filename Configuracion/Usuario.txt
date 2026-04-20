@@ -1,0 +1,3 @@
+Nombre=""
+FechaNacimiento=""
+FotoImagen=default.jpg

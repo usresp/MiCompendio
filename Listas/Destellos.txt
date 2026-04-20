@@ -1,0 +1,616 @@
+1|La decisión más importante que debemos tomar es si creemos que vivimos en un universo amigable u hostil.|Albert Einstein|AlbertEinstein6.jpg|Destellos|Frase
+2|Peores son los odios ocultos que los descubiertos.|Séneca|Seneca1.jpg|Destellos|Frase
+3|El aburrimiento y la ansiedad son signos de que no estás utilizando tus habilidades en toda su capacidad.|Mihaly Csikszentmihalyi|MihalyCsikszentmihalyi1.jpg|Destellos|Frase
+4|Deja que la otra persona sienta que la idea es suya.|Dale Carnegie|DaleCarnegie2.jpg|Destellos|Frase
+5|Los mediocres pueden ser educados; los genios se educan a sí mismos.|Santiago Ramón y Cajal|SantiagoRamonYCajal1.jpg|Destellos|Frase
+6|Lo que es correcto no siempre es popular y lo que es popular no siempre es correcto.|Albert Einstein|AlbertEinstein7.jpg|Destellos|Frase
+7|La ciencia sin religión es coja, la religión sin ciencia es ciega.|Albert Einstein|AlbertEinstein9.jpg|Destellos|Frase
+8|El amor propio y la autocompasión son esenciales para nuestra salud emocional y bienestar.|Antonio Damasio|AntonioDamasio1.jpg|Destellos|Frase
+9|Nada tiene poder sobre ti, excepto aquello a lo que le otorgues poder.|Marco Aurelio|MarcoAurelio4.jpg|Destellos|Frase
+10|Cuando nos centramos en el presente, la mente se calma y las emociones se equilibran.|Marian Rojas Estapé|MarianRojasEstape5.jpg|Destellos|Frase
+11|Si quieres que tus niños sean inteligentes, léeles cuentos de hadas. Si quieres que sean más inteligentes, léeles más cuentos de hadas.|Albert Einstein|AlbertEinstein5.jpg|Destellos|Frase
+12|Nunca tomes decisiones permanentes basadas en emociones temporales.|Desconocido|AutorDesconocido3.jpg|Destellos|Frase
+13|El fracaso es simplemente la oportunidad de comenzar de nuevo, esta vez de forma más inteligente.|Henry Ford|HenryFord2.jpg|Destellos|Frase
+14|Dos cosas te definen: tu paciencia cuando no tienes nada, y tu actitud cuando lo tienes todo.|Desconocido|AutorDesconocido9.jpg|Destellos|Frase
+15|Conocer tu propia oscuridad es el mejor método para lidiar con la oscuridad de los demás.|Carl Gustav Jung|CarlGustavJung2.jpg|Destellos|Frase
+16|La conciencia es el producto más maravilloso de la evolución, un logro que nos permite saber que existimos y reflexionar sobre nosotros mismos.|Antonio Damasio|AntonioDamasio2.jpg|Destellos|Frase
+17|La música tiene la capacidad de evocar emociones y conectarnos profundamente con nuestras experiencias.|Antonio Damasio|AntonioDamasio1.jpg|Destellos|Frase
+18|Lo que no me mata, me hace más fuerte.|Friedrich Nietzsche|FriedrichNietzsche5.jpg|Destellos|Frase
+19|El privilegio de una vida es convertirse en quien realmente eres.|Carl Gustav Jung|CarlGustavJung3.jpg|Destellos|Frase
+20|A veces las cosas que rompen tu corazón, terminan arreglando tu visión.|Desconocido|AutorDesconocido5.jpg|Destellos|Frase
+21|Un líder no es responsable de los resultados, sino de las personas que generan los resultados.|Simon Sinek|SimonSinek1.jpg|Destellos|Frase
+22|Nada me inspira más veneración y asombro que un anciano que sabe cambiar de opinión.|Santiago Ramón y Cajal|SantiagoRamonYCajal3.jpg|Destellos|Frase
+23|Nada es particularmente difícil si lo divides en pequeños trabajos.|Henry Ford|HenryFord1.jpg|Destellos|Frase
+24|Si no puedes dormir, levántate y haz algo en lugar de quedarte ahí preocupado. Es la preocupación lo que te derrota, no la falta de sueño.|Dale Carnegie|DaleCarnegie5.jpg|Destellos|Frase
+25|Si no sueltas a las personas equivocadas, nunca conocerás a las correctas.|Desconocido|AutorDesconocido8.jpg|Destellos|Frase
+26|Si tuviera una hora para resolver un problema me gustaría pasar 55 minutos pensando sobre el problema y 5 minutos pensando en las soluciones.|Albert Einstein|AlbertEinstein1.jpg|Destellos|Frase
+27|No apresures el proceso, confía en él; las cosas grandiosas llevan tiempo.|Desconocido|AutorDesconocido3.jpg|Destellos|Frase
+28|Todas las religiones, artes y ciencias son ramas del mismo árbol.|Albert Einstein|AlbertEinstein4.jpg|Destellos|Frase
+29|Todo se le puede quitar a un hombre, excepto una cosa: la última de las libertades humanas, la de elegir su actitud en cualquier circunstancia, la de elegir su propio camino.|Viktor Frankl|ViktorFrankl4.jpg|Destellos|Frase
+30|No llores porque se acabó, sonríe porque sucedió.|Desconocido|AutorDesconocido19.jpg|Destellos|Frase
+31|La forma más efectiva de cambiar tus hábitos es enfocarte no en lo que quieres lograr, sino en quién quieres ser.|James Clear|JamesClear1.jpg|Destellos|Frase
+32|Evita la conversación de aquellas personas cuya palabra, en vez de ser trabajo, es placer.|Santiago Ramón y Cajal|SantiagoRamonYCajal2.jpg|Destellos|Frase
+33|El éxito es algo que atraes por la persona en la que te conviertes.|Jim Rohn|JimRohn5.jpg|Destellos|Frase
+34|Tranquilo, hay un juez llamado tiempo que pone a todo el mundo en su lugar.|Albert Einstein|AlbertEinstein2.jpg|Destellos|Frase
+35|Hay dos maneras de vivir: como si nada fuese un milagro o como si todo fuese un milagro.|Albert Einstein|AlbertEinstein5.jpg|Destellos|Frase
+36|La vergüenza y la culpa son emociones dolorosas pero necesarias para nuestro crecimiento y aprendizaje.|Antonio Damasio|AntonioDamasio2.jpg|Destellos|Frase
+37|Ser profundamente amado te da fuerza; amar profundamente te da valor.|Lao-Tsé|LaoTse2.jpg|Destellos|Frase
+38|Deja de contarle todo a la gente; a la mayoría no le importa, y otros secretamente quieren que falles.|Desconocido|AutorDesconocido12.jpg|Destellos|Frase
+39|La resiliencia es la capacidad de recuperarse de situaciones adversas y es una característica clave de la salud emocional.|Antonio Damasio|AntonioDamasio4.jpg|Destellos|Frase
+40|Preocúpate por lo que piensan los demás, y siempre serás su prisionero.|Lao-Tsé|LaoTse2.jpg|Destellos|Frase
+41|Tienes dos opciones: evolucionar o repetir.|Desconocido|AutorDesconocido16.jpg|Destellos|Frase
+42|Una crisis puede ser una gran bendición para cualquier persona o nación, porque todas las crisis traen progreso. La creatividad nace de la angustia, así como el día nace de la noche oscura.|Albert Einstein|AlbertEinstein1.jpg|Destellos|Frase
+43|La mente es como un paracaídas… solo funciona si la tenemos abierta.|Albert Einstein|AlbertEinstein5.jpg|Destellos|Frase
+44|Un barco está siempre seguro en la orilla, pero ese no es el propósito para el que se ha construido.|Albert Einstein|AlbertEinstein10.jpg|Destellos|Frase
+45|Cada día sabemos más y entendemos menos.|Albert Einstein|AlbertEinstein6.jpg|Destellos|Frase
+46|Me enorgullezco de no haber figurado nunca entre la clientela especial de las corridas de toros.|Santiago Ramón y Cajal|SantiagoRamonYCajal3.jpg|Destellos|Frase
+47|Eres responsable de tu propia felicidad; no necesitas esperar el permiso de otras personas para ser feliz.|Desconocido|AutorDesconocido11.jpg|Destellos|Frase
+48|Valora la experiencia sobre las posesiones; porque los recuerdos son los verdaderos tesoros de la vida.|Desconocido|AutorDesconocido6.jpg|Destellos|Frase
+49|El sentido de la vida es encontrar algo por lo que valga la pena dedicarse, algo que absorba toda tu energía y que te haga olvidar todo lo demás.|Mihaly Csikszentmihalyi|MihalyCsikszentmihalyi3.jpg|Destellos|Frase
+50|La innovación no se trata de tener nuevas ideas, sino de hacer que las ideas tengan impacto.|Simon Sinek|SimonSinek5.jpg|Destellos|Frase
+51|La creatividad surge de la tensión entre lo opuesto y la voluntad de encontrar un equilibrio.|Carl Gustav Jung|CarlGustavJung1.jpg|Destellos|Frase
+52|¡Triste época la nuestra! Es más fácil desintegrar un átomo que un prejuicio.|Albert Einstein|AlbertEinstein4.jpg|Destellos|Frase
+53|La vida solo puede ser entendida mirando hacia atrás, pero debe ser vivida hacia adelante.|Soren Kierkegaard|SorenKierkegaard1.jpg|Destellos|Frase
+54|El cerebro es una herramienta poderosa que, bien utilizada, nos permite ser mucho más felices.|Marian Rojas Estapé|MarianRojasEstape2.jpg|Destellos|Frase
+55|La felicidad y la libertad comienzan con la clara comprensión de un principio: algunas cosas están bajo nuestro control y otras no.|Epicteto|Epitecto1.jpg|Destellos|Frase
+56|Las personas no compran lo que haces; compran por qué lo haces.|Simon Sinek|SimonSinek2.jpg|Destellos|Frase
+57|Libérate de los consejos de la sociedad; la mayoría no tiene idea de lo que están haciendo.|Desconocido|AutorDesconocido20.jpg|Destellos|Frase
+58|Estar presente en el momento es la base para una vida plena y significativa.|Daniel Goleman|DanielGoleman1.jpg|Destellos|Frase
+59|Mantenlo privado hasta que sea permanente.|Desconocido|AutorDesconocido10.jpg|Destellos|Frase
+60|La libertad es la voluntad de ser responsables de nosotros mismos.|Friedrich Nietzsche|FriedrichNietzsche4.jpg|Destellos|Frase
+61|Aprende de quién eras, aprecia en quién te has convertido, e invierte cuidadosamente en quién quieres ser.|Desconocido|AutorDesconocido18.jpg|Destellos|Frase
+62|De todas las reacciones posibles ante una injuria, la más hábil y económica es el silencio.|Santiago Ramón y Cajal|SantiagoRamonYCajal2.jpg|Destellos|Frase
+63|El progreso humano proviene de la esperanza y la colaboración, no del pesimismo.|Rutger Bregman|RutgerBregman1.jpg|Destellos|Frase
+64|La competencia destruye a los débiles y exalta a los fuertes.|Henry Ford|HenryFord5.jpg|Destellos|Frase
+65|Creer en Dios es un salto al vacío: una apuesta que desafía la razón pero llena el espíritu.|Soren Kierkegaard|SorenKierkegaard5.jpg|Destellos|Frase
+66|Una persona comienza a vivir cuando puede vivir fuera de sí mismo.|Albert Einstein|AlbertEinstein8.jpg|Destellos|Frase
+67|La monotonía y la soledad de una vida tranquila estimula la mente creativa.|Albert Einstein|AlbertEinstein7.jpg|Destellos|Frase
+68|La creatividad es la inteligencia divirtiéndose.|Albert Einstein|AlbertEinstein3.jpg|Destellos|Frase
+69|El hombre es una cuerda tendida entre el animal y el superhombre: una cuerda sobre un abismo.|Friedrich Nietzsche|FriedrichNietzsche1.jpg|Destellos|Frase
+70|No subestimes el poder de las pequeñas mejoras realizadas constantemente a lo largo del tiempo.|James Clear|JamesClear5.jpg|Destellos|Frase
+71|Convierte tus heridas en sabiduría y tus sombras en luz.|Friedrich Nietzsche|FriedrichNietzsche2.jpg|Destellos|Frase
+72|A los amigos, como a los dientes, los vamos perdiendo con los años, no siempre sin dolor.|Santiago Ramón y Cajal|SantiagoRamonYCajal2.jpg|Destellos|Frase
+73|El anciano propende a enjuiciar el hoy con el criterio de ayer.|Santiago Ramón y Cajal|SantiagoRamonYCajal5.jpg|Destellos|Frase
+74|El valor de un hombre debería verse en lo que da y no en lo que es capaz de recibir.|Albert Einstein|AlbertEinstein5.jpg|Destellos|Frase
+75|La fortaleza de una organización no está en sus productos, sino en sus relaciones humanas.|Simon Sinek|SimonSinek4.jpg|Destellos|Frase
+76|La gente te inspira o te agota, elige sabiamente.|Desconocido|AutorDesconocido2.jpg|Destellos|Frase
+77|La libertad consiste en saber escoger, y el valor en atreverse a hacerlo.|Soren Kierkegaard|SorenKierkegaard3.jpg|Destellos|Frase
+78|No te desanimes si la gente no aprecia lo que haces; sé paciente. La recompensa viene con el tiempo.|Dale Carnegie|DaleCarnegie4.jpg|Destellos|Frase
+79|El extraordinario valor de la atención plena es su capacidad para transformar cada aspecto de tu existencia, desde la salud hasta la prosperidad.|Mario Alonso Puig|MarioAlonsoPuig2.jpg|Destellos|Frase
+80|El silencio y la quietud son a menudo el mejor lugar para encontrarte a ti mismo.|Elizabeth Gilbert|ElizabethGilbert2.jpg|Destellos|Frase
+81|Recuerda que el nombre de una persona es para esa persona el sonido más dulce e importante en cualquier idioma.|Dale Carnegie|DaleCarnegie3.jpg|Destellos|Frase
+82|La fe no es la creencia en lo que se ve, sino en lo que no se ve.|Soren Kierkegaard|SorenKierkegaard6.jpg|Destellos|Frase
+83|Admira a quien lo intenta aunque fracase.|Séneca|Seneca3.jpg|Destellos|Frase
+84|La mayoría de los hombres persiguen el placer con tal apresuramiento que, en su prisa, lo pasan de largo.|Soren Kierkegaard|SorenKierkegaard2.jpg|Destellos|Frase
+85|Un viaje de mil millas comienza con un solo paso.|Lao-Tsé|LaoTse4.jpg|Destellos|Frase
+86|El hombre que va más allá de lo que se espera de él pronto verá que el mundo lo recompensa.|Dale Carnegie|DaleCarnegie3.jpg|Destellos|Frase
+87|Si alguien te dice que no puedes, te están mostrando sus límites, no los tuyos.|Desconocido|AutorDesconocido19.jpg|Destellos|Frase
+88|El cerebro emocional tiene un impacto mucho mayor que el cerebro racional en nuestra toma de decisiones.|Daniel Goleman|DanielGoleman3.jpg|Destellos|Frase
+89|La verdadera prueba del carácter de una persona es lo que hace cuando nadie está mirando.|John Wooden|JohnWooden5.jpg|Destellos|Frase
+90|La única razón para la existencia del tiempo es para que no todo ocurra a la vez.|Albert Einstein|AlbertEinstein6.jpg|Destellos|Frase
+91|Cuando dejo de ser yo, me convierto en todo lo que podría ser.|Lao-Tsé|LaoTse1.jpg|Destellos|Frase
+92|Estoy agradecido por todos los que me dijeron no.|Albert Einstein|AlbertEinstein1.jpg|Destellos|Frase
+93|La gratitud y la apreciación son emociones poderosas que pueden mejorar nuestro bienestar y nuestra calidad de vida.|Antonio Damasio|AntonioDamasio5.jpg|Destellos|Frase
+94|La sencillez, la paciencia y la compasión son tus tres grandes tesoros.|Lao-Tsé|LaoTse6.jpg|Destellos|Frase
+95|La más deplorable clase de necios es la de los parlanchines empeñados en demostrar que tienen talento.|Santiago Ramón y Cajal|SantiagoRamonYCajal4.jpg|Destellos|Frase
+96|Tú tienes poder sobre tu mente, no sobre eventos externos. Date cuenta de esto y encontrarás la fuerza.|Marco Aurelio|MarcoAurelio3.jpg|Destellos|Frase
+97|Sin música, la vida sería un error.|Friedrich Nietzsche|FriedrichNietzsche5.jpg|Destellos|Frase
+98|El amor no es algo que encuentres; es algo que construyes con esfuerzo y cuidado.|Elizabeth Gilbert|ElizabethGilbert4.jpg|Destellos|Frase
+99|Si no cambias la dirección, puedes terminar donde has comenzado.|Lao-Tsé|LaoTse7.jpg|Destellos|Frase
+100|La más ignorante y rústica de las mujeres puede engendrar un hombre de genio.|Santiago Ramón y Cajal|SantiagoRamonYCajal1.jpg|Destellos|Frase
+101|La atención es una moneda limitada; lo que decides enfocar define tu experiencia de la vida.|Daniel Goleman|DanielGoleman5.jpg|Destellos|Frase
+102|Nadie puede herirte sin tu consentimiento.|Marco Aurelio|MarcoAurelio5.jpg|Destellos|Frase
+103|El hombre nunca encuentra su mejor versión hasta que se enfrenta a la adversidad.|Abraham Lincoln|AbrahamLincoln2.jpg|Destellos|Frase
+104|Razonar y convencer es largo y trabajoso. Sugestionar es fácil y rápido.|Santiago Ramón y Cajal|SantiagoRamonYCajal2.jpg|Destellos|Frase
+105|El éxito en el trato con la gente depende del tacto, la simpatía y la comprensión.|Dale Carnegie|DaleCarnegie1.jpg|Destellos|Frase
+106|La distracción constante nos aleja de lo que realmente importa.|Daniel Goleman|DanielGoleman2.jpg|Destellos|Frase
+107|El cambio ocurre naturalmente cuando aceptas lo que eres en este momento.|Eckhart Tolle|EckhartTolle4.jpg|Destellos|Frase
+108|Para disfrutar de la vida, no necesitamos riquezas, poder o fama. Lo que necesitamos es tener el control sobre cómo experimentamos cada momento.|Mihaly Csikszentmihalyi|MihalyCsikszentmihalyi4.jpg|Destellos|Frase
+109|Deja de intentar complacer a todos; esa no es tu misión en la vida.|Elizabeth Gilbert|ElizabethGilbert1.jpg|Destellos|Frase
+110|Si quieres vivir una vida feliz, átala a una meta, no a personas o cosas.|Albert Einstein|AlbertEinstein2.jpg|Destellos|Frase
+111|Es más efectivo mejorar los hábitos que intentar motivarse constantemente.|James Clear|JamesClear4.jpg|Destellos|Frase
+112|No intentes convertirte en una persona de éxito, sino en un hombre de valor.|Albert Einstein|AlbertEinstein1.jpg|Destellos|Frase
+113|La suerte es lo que sucede cuando la preparación encuentra la oportunidad.|Séneca|Seneca1.jpg|Destellos|Frase
+114|Nuestros recuerdos están enraizados en experiencias emocionales, y son estos recuerdos los que dan forma a nuestra identidad.|Antonio Damasio|AntonioDamasio1.jpg|Destellos|Frase
+115|La vida es ahora. Nunca ha habido un momento en que tu vida no fuera ahora, ni lo habrá.|Eckhart Tolle|EckhartTolle1.jpg|Destellos|Frase
+116|La verdad es que todos te van a lastimar; solo tienes que encontrar a aquellos por los que vale la pena sufrir.|Desconocido|AutorDesconocido18.jpg|Destellos|Frase
+117|Los sentimientos son la base de la razón y la lógica humanas.|Antonio Damasio|AntonioDamasio2.jpg|Destellos|Frase
+118|Si entrenas tu mirada para buscar en otras personas lo que te gusta y admiras de ellas, acabarás encontrándolo. Entrenar una nueva forma de mirar te dará antes o después acceso a una nueva forma de ver.|Mario Alonso Puig|MarioAlonsoPuig4.jpg|Destellos|Frase
+119|Lo que no te mata, te hace más fuerte.|Friedrich Nietzsche|FriedrichNietzsche1.jpg|Destellos|Frase
+120|Al dejar ir, todo queda hecho.|Lao-Tsé|LaoTse6.jpg|Destellos|Frase
+121|Lo importante es no dejar de cuestionar. La curiosidad tiene su propia razón de existir.|Albert Einstein|AlbertEinstein5.jpg|Destellos|Frase
+122|Tu vida no mejora por casualidad, mejora por cambio.|Jim Rohn|JimRohn4.jpg|Destellos|Frase
+123|Nuestra supervivencia no depende solo de la razón, sino también de nuestra capacidad para sentir empatía y comprender las emociones de los demás.|Antonio Damasio|AntonioDamasio5.jpg|Destellos|Frase
+124|Habla a una persona sobre sí misma y te escuchará durante horas.|Dale Carnegie|DaleCarnegie2.jpg|Destellos|Frase
+125|La empatía pide curiosidad, interés por conocer y humildad para escuchar.|Mario Alonso Puig|MarioAlonsoPuig1.jpg|Destellos|Frase
+126|La mayoría de las personas gastan más tiempo y energía en esquivar los problemas que en enfrentarlos.|Henry Ford|HenryFord3.jpg|Destellos|Frase
+127|Cuando aprendes a no reaccionar a las opiniones negativas, comienzas a dominar tu vida.|Jay Shetty|JayShetty1.jpg|Destellos|Frase
+128|El dolor es inevitable, pero el sufrimiento es opcional.|Haruki Murakami|HarukiMurakami1.jpg|Destellos|Frase
+129|El amor verdadero no es una búsqueda de perfección, sino la aceptación de las imperfecciones.|Elizabeth Gilbert|ElizabethGilbert3.jpg|Destellos|Frase
+130|No necesito saberlo todo, tan solo necesito saber dónde encontrar aquello que me hace falta, cuando lo necesite.|Albert Einstein|AlbertEinstein4.jpg|Destellos|Frase
+131|Un águila usa la tormenta para alcanzar alturas inimaginables.|Desconocido|AutorDesconocido1.jpg|Destellos|Frase
+132|Sé egoísta con tu tiempo; mucha gente no lo merece.|Desconocido|AutorDesconocido5.jpg|Destellos|Frase
+133|La experiencia más hermosa que podemos tener es el misterio.|Albert Einstein|AlbertEinstein4.jpg|Destellos|Frase
+134|Para gobernar a otros, primero aprende a gobernarte a ti mismo.|Lao-Tsé|LaoTse7.jpg|Destellos|Frase
+135|Si tuviera ocho horas para cortar un árbol, dedicaría las primeras seis a afilar el hacha.|Abraham Lincoln|AbrahamLincoln1.jpg|Destellos|Frase
+136|El tiempo es un factor subjetivo que puede dilatarse o comprimirse según nuestra psique.|Carl Gustav Jung|CarlGustavJung5.jpg|Destellos|Frase
+137|No juzgues a otras personas pensando que solo tu punto de vista es el único que se ajusta a la realidad.|Mario Alonso Puig|MarioAlonsoPuig2.jpg|Destellos|Frase
+138|Nuestras emociones influyen en nuestras percepciones y en cómo interpretamos el mundo que nos rodea.|Antonio Damasio|AntonioDamasio4.jpg|Destellos|Frase
+139|No olvides que lo que resiste, persiste. Por eso no intentes cambiar a alguien porque tenga una forma de ser que a ti no te gusta. Conseguirás el efecto contrario al resultado que anhelas.|Mario Alonso Puig|MarioAlonsoPuig3.jpg|Destellos|Frase
+140|Lo que los demás piensan de ti, no es asunto tuyo.|Desconocido|AutorDesconocido1.jpg|Destellos|Frase
+141|El desapego no significa no poseer nada, sino que nada te posea a ti.|Eckhart Tolle|EckhartTolle2.jpg|Destellos|Frase
+142|Cuando te levantes por la mañana, piensa en el privilegio de estar vivo, de respirar, de pensar, de disfrutar y de amar.|Marco Aurelio|MarcoAurelio7.jpg|Destellos|Frase
+143|La bondad en las palabras crea confianza. La bondad en el pensamiento crea profundidad. La bondad en dar crea amor.|Lao-Tsé|LaoTse3.jpg|Destellos|Frase
+144|El secreto de mi éxito es rodearme de personas mejores que yo.|Henry Ford|HenryFord4.jpg|Destellos|Frase
+145|No es lo que tienes, sino lo que haces con lo que tienes lo que marca la diferencia.|John Wooden|JohnWooden3.jpg|Destellos|Frase
+146|Si hubiera preguntado a la gente qué querían, me habrían dicho que caballos más rápidos.|Henry Ford|HenryFord3.jpg|Destellos|Frase
+147|Dos cosas son infinitas: la estupidez humana y el universo, y no estoy seguro de lo segundo.|Albert Einstein|AlbertEinstein3.jpg|Destellos|Frase
+148|El genio es 1% de talento y 99% de trabajo duro.|Albert Einstein|AlbertEinstein9.jpg|Destellos|Frase
+149|El éxito no depende solo de lo que sabes, sino de cómo lo comunicas y cómo inspiras a los demás.|Daniel Goleman|DanielGoleman4.jpg|Destellos|Frase
+150|La conciencia es el resultado de la interacción entre nuestras emociones y nuestros pensamientos.|Antonio Damasio|AntonioDamasio3.jpg|Destellos|Frase
+151|No te preocupes por el miedo al fracaso. Preocúpate más por las oportunidades que pierdes cuando ni siquiera lo intentas.|Dale Carnegie|DaleCarnegie1.jpg|Destellos|Frase
+152|No hay más que una forma de tranquilidad mental y felicidad, y eso es no tomar las cosas externas como propias.|Séneca|Seneca5.jpg|Destellos|Frase
+153|La fuerza sin amor es energía gastada en vano.|Albert Einstein|AlbertEinstein8.jpg|Destellos|Frase
+154|La tristeza es una emoción que nos ayuda a procesar y sanar las pérdidas y los desafíos de la vida.|Antonio Damasio|AntonioDamasio5.jpg|Destellos|Frase
+155|Actúa como si ya fueras feliz, y esto tenderá a volverte feliz.|Dale Carnegie|DaleCarnegie5.jpg|Destellos|Frase
+156|La pérdida de emociones puede llevar a la apatía y la falta de motivación en la vida.|Antonio Damasio|AntonioDamasio2.jpg|Destellos|Frase
+157|La naturaleza no se apresura, sin embargo, todo se logra.|Lao-Tsé|LaoTse4.jpg|Destellos|Frase
+158|¿Cuánto tiempo más vas a esperar antes de demandar lo mejor de ti mismo?|Epicteto|Epitecto6.jpg|Destellos|Frase
+159|La vida moderna tiende a fragmentar nuestra atención, pero recuperar el control de nuestra mente es la clave para la plenitud.|Mihaly Csikszentmihalyi|MihalyCsikszentmihalyi2.jpg|Destellos|Frase
+160|El éxito no es una línea recta; es una serie de picos y valles que te enseñan lecciones.|Simon Sinek|SimonSinek1.jpg|Destellos|Frase
+161|En medio de la dificultad yace la oportunidad.|Albert Einstein|AlbertEinstein4.jpg|Destellos|Frase
+162|Hay una fuerza motriz más poderosa que el vapor, la electricidad y la energía atómica: la voluntad.|Albert Einstein|AlbertEinstein3.jpg|Destellos|Frase
+163|Cuando gestionamos nuestras emociones, podemos transformar el conflicto en una oportunidad de crecimiento.|Daniel Goleman|DanielGoleman1.jpg|Destellos|Frase
+164|No es que tengamos poco tiempo, es que perdemos mucho.|Séneca|Seneca2.jpg|Destellos|Frase
+165|El ego vive a través de la comparación. Sin comparación, el ego no puede sobrevivir.|Eckhart Tolle|EckhartTolle3.jpg|Destellos|Frase
+166|Los hábitos pequeños, repetidos a diario, crean resultados extraordinarios con el tiempo.|James Clear|JamesClear1.jpg|Destellos|Frase
+167|El disfrute es más que un sentimiento: es un estado que se puede alcanzar solo cuando las habilidades y los desafíos están equilibrados.|Mihaly Csikszentmihalyi|MihalyCsikszentmihalyi1.jpg|Destellos|Frase
+168|El verdadero hombre creativo no busca elogios, sino creación.|Friedrich Nietzsche|FriedrichNietzsche1.jpg|Destellos|Frase
+169|El alma necesita intensidad para vivir, no comodidad.|Carl Gustav Jung|CarlGustavJung4.jpg|Destellos|Frase
+170|No mires atrás y te arrepientas; mira hacia adelante y aprende de lo que has hecho.|John Wooden|JohnWooden2.jpg|Destellos|Frase
+171|Nunca he hecho uno de mis descubrimientos a través del proceso de pensamiento racional.|Albert Einstein|AlbertEinstein2.jpg|Destellos|Frase
+172|A veces, el mayor acto de amor es dejar ir.|Elizabeth Gilbert|ElizabethGilbert5.jpg|Destellos|Frase
+173|El trabajo duro se convierte en disfrute cuando encontramos el flujo.|Mihaly Csikszentmihalyi|MihalyCsikszentmihalyi2.jpg|Destellos|Frase
+174|El que siempre busca grandezas alguna vez las encuentra.|Séneca|Seneca5.jpg|Destellos|Frase
+175|La tranquilidad es el orden mental, la disposición de aceptar las cosas como son.|Marco Aurelio|MarcoAurelio3.jpg|Destellos|Frase
+176|A veces ganas, a veces aprendes.|Desconocido|AutorDesconocido11.jpg|Destellos|Frase
+177|Un equipo no es un grupo de personas que trabajan juntas; es un grupo de personas que confían entre sí.|Simon Sinek|SimonSinek3.jpg|Destellos|Frase
+178|El fracaso no es el final del camino; es solo una señal de que estás aprendiendo.|Elizabeth Gilbert|ElizabethGilbert4.jpg|Destellos|Frase
+179|No temamos la muerte. No es más que una parte del proceso de la naturaleza, como todo lo demás.|Marco Aurelio|MarcoAurelio6.jpg|Destellos|Frase
+180|Los intelectuales resuelven problemas, los genios los previenen.|Albert Einstein|AlbertEinstein10.jpg|Destellos|Frase
+181|La mujer que sigue a la multitud, suele ir más allá de la multitud. La mujer que camina sola, es probable que se encuentre a sí misma en lugares en los que nadie ha estado nunca antes.|Albert Einstein|AlbertEinstein3.jpg|Destellos|Frase
+182|La soledad no surge de estar solos, sino de no ser capaces de comunicar las cosas que parecen importantes para uno mismo.|Carl Gustav Jung|CarlGustavJung4.jpg|Destellos|Frase
+183|Poco vales si tu muerte es deseada por muchas personas.|Santiago Ramón y Cajal|SantiagoRamonYCajal4.jpg|Destellos|Frase
+184|No puedes alcanzar lo que está frente a ti, hasta que sueltes lo que está detrás de ti.|Desconocido|AutorDesconocido13.jpg|Destellos|Frase
+185|La confianza no se gana con palabras; se gana con acciones constantes.|Simon Sinek|SimonSinek2.jpg|Destellos|Frase
+186|La formulación de un problema es más importante que su solución.|Albert Einstein|AlbertEinstein5.jpg|Destellos|Frase
+187|Ante una situación difícil e incómoda en la que sientes que la presión te puede, no te dejes arrastrar por la tentación de buscar culpables. Pon toda tu atención en buscar una solución.|Mario Alonso Puig|MarioAlonsoPuig4.jpg|Destellos|Frase
+188|La vida es una preparación para el futuro; y la mejor preparación para el futuro es vivir como si no hubiera ninguno.|Albert Einstein|AlbertEinstein7.jpg|Destellos|Frase
+189|La mente que se abre a una nueva idea jamás volverá a su tamaño original.|Albert Einstein|AlbertEinstein5.jpg|Destellos|Frase
+190|El miedo es temporal, el arrepentimiento es para siempre.|Desconocido|AutorDesconocido6.jpg|Destellos|Frase
+191|La autoconciencia emocional nos permite comprender y regular nuestras propias emociones de manera saludable.|Antonio Damasio|AntonioDamasio3.jpg|Destellos|Frase
+192|La disciplina es el puente entre metas y logros.|Jim Rohn|JimRohn2.jpg|Destellos|Frase
+193|Saber que no se sabe es lo mejor. Creer que se sabe lo que no se sabe es una enfermedad.|Lao-Tsé|LaoTse3.jpg|Destellos|Frase
+194|El azar no existe; Dios no juega a los dados.|Albert Einstein|AlbertEinstein3.jpg|Destellos|Frase
+195|El estrés no viene de lo que nos pasa, sino de nuestra respuesta emocional ante ello.|Daniel Goleman|DanielGoleman5.jpg|Destellos|Frase
+196|O se tienen muchas ideas y pocos amigos, o muchos amigos y pocas ideas.|Santiago Ramón y Cajal|SantiagoRamonYCajal1.jpg|Destellos|Frase
+197|Todo hombre puede ser, si se lo propone, escultor de su propio cerebro.|Santiago Ramón y Cajal|SantiagoRamonYCajal3.jpg|Destellos|Frase
+198|Nunca pienso en el futuro. Llega demasiado pronto.|Albert Einstein|AlbertEinstein8.jpg|Destellos|Frase
+199|Los débiles sucumben, no por débiles, sino por ignorar que lo son. Lo mismo sucede a las naciones.|Santiago Ramón y Cajal|SantiagoRamonYCajal5.jpg|Destellos|Frase
+200|No permitas que lo que no puedes hacer interfiera con lo que puedes hacer.|John Wooden|JohnWooden5.jpg|Destellos|Frase
+201|No encuentres fallos, encuentra soluciones. Cualquiera puede quejarse.|Henry Ford|HenryFord2.jpg|Destellos|Frase
+202|La única persona que se preocupa por tus esperanzas y sueños eres tú; la única persona que los hará realidad eres tú.|Desconocido|AutorDesconocido1.jpg|Destellos|Frase
+203|La mayoría de las cosas importantes de este mundo se logran en silencio.|Haruki Murakami|HarukiMurakami5.jpg|Destellos|Frase
+204|Todo lo que nos irrita de los demás puede llevarnos a un entendimiento de nosotros mismos.|Carl Gustav Jung|CarlGustavJung5.jpg|Destellos|Frase
+205|La gratitud es la memoria del corazón.|Lao-Tsé|LaoTse1.jpg|Destellos|Frase
+206|Círculo pequeño, vida privada y mente en paz.|Desconocido|AutorDesconocido14.jpg|Destellos|Frase
+207|Tener cosas, poder y estatus puede, sin lugar a dudas, ayudarte a llevar una vida más cómoda, pero lo que no puede es darte una vida más feliz. Los vacíos del ser no se rellenan con el tener.|Mario Alonso Puig|MarioAlonsoPuig1.jpg|Destellos|Frase
+208|Cuando descubres tu porqué, inspiras a otros a encontrar el suyo.|Simon Sinek|SimonSinek3.jpg|Destellos|Frase
+209|Si los hechos no encajan en la teoría, cambie los hechos.|Albert Einstein|AlbertEinstein4.jpg|Destellos|Frase
+210|Abrirse y rendirse a la sabiduría de la vida es dejarse guiar y moldear por ella.|Mario Alonso Puig|MarioAlonsoPuig3.jpg|Destellos|Frase
+211|Cuando estás contento con ser simplemente tú mismo y no te comparas ni compites, todo el mundo te respetará.|Lao-Tsé|LaoTse6.jpg|Destellos|Frase
+212|El progreso es una mezcla de paciencia y persistencia. Lo que importa es mantenerse en el camino.|James Clear|JamesClear4.jpg|Destellos|Frase
+213|No tengo talentos especiales, pero sí soy profundamente curioso.|Albert Einstein|AlbertEinstein1.jpg|Destellos|Frase
+214|Somos el reflejo de las cinco personas más cercanas a nosotros.|Jim Rohn|JimRohn1.jpg|Destellos|Frase
+215|Cualquiera que deja de aprender es viejo, ya sea a los veinte u ochenta años. Cualquiera que sigue aprendiendo permanece joven.|Henry Ford|HenryFord4.jpg|Destellos|Frase
+216|La disciplina es elegir entre lo que quieres en el momento y lo que más quieres.|Desconocido|AutorDesconocido11.jpg|Destellos|Frase
+217|El autocontrol es la capacidad de decir "no" cuando el impulso es decir "sí".|Daniel Goleman|DanielGoleman4.jpg|Destellos|Frase
+218|Ninguna persona es libre si no es dueña de sí misma.|Epicteto|Epitecto1.jpg|Destellos|Frase
+219|Cuanto más educados estemos, más tolerantes seremos respecto a la gente que no está en nuestro grupo.|Antonio Damasio|AntonioDamasio5.jpg|Destellos|Frase
+220|La mayoría de la gente dice que es el intelecto lo que hace a un gran científico. Están equivocados: es el carácter.|Albert Einstein|AlbertEinstein2.jpg|Destellos|Frase
+221|La evolución no diseñó cerebros para pensar, diseñó cerebros para sobrevivir, y el pensamiento fue una consecuencia.|Antonio Damasio|AntonioDamasio4.jpg|Destellos|Frase
+222|La claridad de tu porqué te permite tomar decisiones más alineadas y coherentes.|Simon Sinek|SimonSinek4.jpg|Destellos|Frase
+223|No importa lo que te ocurra, sino cómo respondes a lo que te ocurre.|Epicteto|Epitecto3.jpg|Destellos|Frase
+224|No te levantas al nivel de tus metas; caes al nivel de tus sistemas.|James Clear|JamesClear2.jpg|Destellos|Frase
+225|A veces tienes que dejar ir algo bueno para dar paso a algo mejor.|Desconocido|AutorDesconocido20.jpg|Destellos|Frase
+226|El verdadero significado de la vida no está en las respuestas, sino en las preguntas que te atreves a hacer.|Haruki Murakami|HarukiMurakami2.jpg|Destellos|Frase
+227|No te conviertas en una persona que solo espera que las cosas sucedan; conviértete en alguien que las hace suceder.|Jim Rohn|JimRohn1.jpg|Destellos|Frase
+228|No desees que sea más fácil, desea que tú seas mejor.|Jim Rohn|JimRohn3.jpg|Destellos|Frase
+229|Hay pocos lazos de amistad tan fuertes que no puedan ser cortados por un pelo de mujer.|Santiago Ramón y Cajal|SantiagoRamonYCajal5.jpg|Destellos|Frase
+230|La felicidad y el bienestar no dependen de las circunstancias externas, sino de cómo interpretamos y gestionamos esas circunstancias.|Daniel Goleman|DanielGoleman4.jpg|Destellos|Frase
+231|Cualquiera capaz de hacerte enfadar se convierte en tu dueño.|Epicteto|Epitecto5.jpg|Destellos|Frase
+232|El amor más grande es aquel que no busca poseer, sino que libera al amado.|Soren Kierkegaard|SorenKierkegaard7.jpg|Destellos|Frase
+233|Algunas cosas simplemente están destinadas a suceder, no importa cuánto las evites o las busques.|Haruki Murakami|HarukiMurakami4.jpg|Destellos|Frase
+234|Si te duele, observa. Encontrarás que depende de ti mantener la calma o no.|Marco Aurelio|MarcoAurelio4.jpg|Destellos|Frase
+235|No vivas crónicamente tenso, asustado o enfrentado a los demás y al mundo. Esto lo único que te producirá es un mayor deterioro de los tejidos y un envejecimiento más precoz.|Mario Alonso Puig|MarioAlonsoPuig3.jpg|Destellos|Frase
+236|Las personas débiles se vengan, las fuertes perdonan, las inteligentes ignoran.|Desconocido|AutorDesconocido17.jpg|Destellos|Frase
+237|Debo estar dispuesto a renunciar a lo que soy, con el fin de convertirme en lo que seré.|Albert Einstein|AlbertEinstein7.jpg|Destellos|Frase
+238|Deja de hacer lo que es fácil o popular; comienza a hacer lo que es correcto.|Desconocido|AutorDesconocido10.jpg|Destellos|Frase
+239|Cuanto más tranquilo estés, más claro pensarás.|Desconocido|AutorDesconocido8.jpg|Destellos|Frase
+240|Cuando encontramos significado en lo que hacemos, todo lo demás se alinea.|Mihaly Csikszentmihalyi|MihalyCsikszentmihalyi1.jpg|Destellos|Frase
+241|Los ganadores se enfocan en ganar; los perdedores se enfocan en los ganadores.|Desconocido|AutorDesconocido13.jpg|Destellos|Frase
+242|Hecho es mejor que perfecto.|Sheryl Sandberg||Destellos|Frase
+243|Tu curiosidad vencerá al miedo con más frecuencia que tu propia valentía. Si tienes presente que el mundo real es más benévolo que el mundo mental, verás en la incertidumbre no solo el riesgo, sino también la oportunidad.|Mario Alonso Puig|MarioAlonsoPuig3.jpg|Destellos|Frase
+244|La excelencia no es un acto esporádico, sino un hábito.|Mihaly Csikszentmihalyi|MihalyCsikszentmihalyi5.jpg|Destellos|Frase
+245|Ser empático no es solo escuchar las palabras, sino también captar las emociones detrás de ellas.|Daniel Goleman|DanielGoleman3.jpg|Destellos|Frase
+246|El hombre encuentra a Dios detrás de cada puerta que la ciencia logra abrir.|Albert Einstein|AlbertEinstein8.jpg|Destellos|Frase
+247|El arte de vivir mucho es resignarse a vivir poco a poco.|Santiago Ramón y Cajal|SantiagoRamonYCajal4.jpg|Destellos|Frase
+248|El problema del hombre no está en la bomba atómica, sino en su corazón.|Albert Einstein|AlbertEinstein2.jpg|Destellos|Frase
+249|El que es negligente con la verdad en las cosas pequeñas no se puede confiar en los asuntos importantes.|Albert Einstein|AlbertEinstein4.jpg|Destellos|Frase
+250|Eres la combinación de tus hábitos, no tus intenciones.|James Clear|JamesClear3.jpg|Destellos|Frase
+251|Las emociones son fundamentales para tomar decisiones racionales. Sin ellas, seríamos incapaces de elegir sabiamente.|Antonio Damasio|AntonioDamasio3.jpg|Destellos|Frase
+252|El hombre más poderoso es el que es dueño de sí mismo.|Séneca|Seneca2.jpg|Destellos|Frase
+253|El mundo no será destruido por aquellos que hacen el mal, sino por aquellos que lo observan y no hacen nada.|Albert Einstein|AlbertEinstein3.jpg|Destellos|Frase
+254|Protege bien tus pensamientos cuando estás solo, y tus palabras cuando estás acompañado.|Desconocido|AutorDesconocido10.jpg|Destellos|Frase
+255|La verdadera prueba del carácter de un hombre es lo que hace cuando nadie está mirando.|John Wooden|JohnWooden1.jpg|Destellos|Frase
+256|Ayuda a los demás a alcanzar su máximo potencial y alcanzarás el tuyo.|John Wooden|JohnWooden4.jpg|Destellos|Frase
+257|Ser valiente no significa no caer; significa levantarte cada vez que lo haces.|Elizabeth Gilbert|ElizabethGilbert3.jpg|Destellos|Frase
+258|Todos nos amamos más a nosotros mismos que a otras personas, pero nos preocupamos más por su opinión que por la nuestra.|Marco Aurelio|MarcoAurelio5.jpg|Destellos|Frase
+259|Un río corta la roca no por su fuerza, sino por su persistencia.|Desconocido|AutorDesconocido16.jpg|Destellos|Frase
+260|Trabaja en tu trabajo y haz una vida; trabaja en ti mismo y haz una fortuna.|Desconocido|AutorDesconocido7.jpg|Destellos|Frase
+261|Quien tiene un porqué para vivir puede soportar casi cualquier cómo.|Friedrich Nietzsche|FriedrichNietzsche2.jpg|Destellos|Frase
+262|Observa tu mente sin juzgar para poder llegar a descubrir qué es lo que la enferma y qué es lo que la sana.|Mario Alonso Puig|MarioAlonsoPuig1.jpg|Destellos|Frase
+263|El estudiante no es un recipiente que hay que llenar, sino una antorcha que hay que encender.|Albert Einstein|AlbertEinstein9.jpg|Destellos|Frase
+264|No envejezcas; no importa cuánto tiempo vivas, nunca dejéis de permanecer como niños curiosos ante el gran misterio en el que nacimos.|Albert Einstein|AlbertEinstein1.jpg|Destellos|Frase
+265|No finjas ser mejor de lo que eres; vive la vida a tu propio ritmo.|Lao-Tsé|LaoTse1.jpg|Destellos|Frase
+266|La mente intuitiva es un regalo sagrado y la mente racional es un fiel sirviente. Hemos creado una sociedad que honra al sirviente y ha olvidado el regalo.|Albert Einstein|AlbertEinstein10.jpg|Destellos|Frase
+267|Aprende a confiar en que dentro de ti hay una sabiduría mucho mayor que la que procede de tus confusos pensamientos y de tu limitada percepción.|Mario Alonso Puig|MarioAlonsoPuig2.jpg|Destellos|Frase
+268|No somos máquinas pensantes que sienten; somos máquinas emocionales que piensan.|Antonio Damasio|AntonioDamasio4.jpg|Destellos|Frase
+269|Solo la persona que es capaz de permanecer en silencio es capaz de hablar de manera importante.|Soren Kierkegaard|SorenKierkegaard1.jpg|Destellos|Frase
+270|El único modo de ganar una discusión es evitándola.|Dale Carnegie|DaleCarnegie4.jpg|Destellos|Frase
+271|Tu momento más profundo y oscuro puede ser lo mejor que te ha pasado.|Desconocido|AutorDesconocido6.jpg|Destellos|Frase
+272|Si las personas te tratan como una opción, aléjate como una elección.|Desconocido|AutorDesconocido5.jpg|Destellos|Frase
+273|Todos sabemos que la luz viaja más rápido que el sonido. Es por eso que algunas personas parecen brillantes hasta que las escuchamos hablar.|Albert Einstein|AlbertEinstein10.jpg|Destellos|Frase
+274|Sabed que cuando uno es amigo de sí mismo lo es también de todo el mundo.|Séneca|Seneca2.jpg|Destellos|Frase
+275|La fuente más común de la desesperación es no ser quien eres.|Soren Kierkegaard|SorenKierkegaard8.jpg|Destellos|Frase
+276|La imaginación es más importante que el conocimiento.|Albert Einstein|AlbertEinstein4.jpg|Destellos|Frase
+277|No puedes cambiar la dirección del viento, pero puedes ajustar tus velas para llegar a tu destino.|Desconocido|AutorDesconocido15.jpg|Destellos|Frase
+278|No se trata de lo que te pasa, sino de cómo reaccionas a lo que te pasa.|Marian Rojas Estapé|MarianRojasEstape1.jpg|Destellos|Frase
+279|Quien no es feliz con poco, no lo será con mucho.|Lao-Tsé|LaoTse4.jpg|Destellos|Frase
+280|La capacidad de enfocar nuestra atención determina nuestra capacidad de aprender, de conectarnos con los demás y de ser efectivos.|Daniel Goleman|DanielGoleman3.jpg|Destellos|Frase
+281|Todo debe simplificarse lo máximo posible, pero no más.|Albert Einstein|AlbertEinstein7.jpg|Destellos|Frase
+282|El destino conduce a quien lo acepta, y arrastra al que rehúsa admitirlo.|Séneca|Seneca4.jpg|Destellos|Frase
+283|Si quieres entender a una persona, no escuches sus palabras, observa su comportamiento.|Albert Einstein|AlbertEinstein9.jpg|Destellos|Frase
+284|La crítica es algo que podemos evitar fácilmente si no decimos nada, no hacemos nada y no somos nada.|Dale Carnegie|DaleCarnegie1.jpg|Destellos|Frase
+285|Simplificar tus objetivos y enfocarte en una cosa a la vez es la clave para el éxito sostenido.|James Clear|JamesClear3.jpg|Destellos|Frase
+286|A veces creamos nuestras propias desilusiones a través de expectativas.|Desconocido|AutorDesconocido7.jpg|Destellos|Frase
+287|La soledad es dolorosa cuando uno es joven, pero muy agradable cuando uno es más maduro.|Albert Einstein|AlbertEinstein6.jpg|Destellos|Frase
+288|El propósito no se encuentra, se construye cada día con nuestras elecciones y acciones.|Jay Shetty|JayShetty2.jpg|Destellos|Frase
+289|Vive de tal manera que tu felicidad dependa lo menos posible de causas externas.|Marco Aurelio|MarcoAurelio1.jpg|Destellos|Frase
+290|No necesitas más tiempo, necesitas menos distracciones.|Desconocido|AutorDesconocido12.jpg|Destellos|Frase
+291|No podemos resolver nuestros problemas con la misma forma de pensar que usamos al crearlos.|Albert Einstein|AlbertEinstein9.jpg|Destellos|Frase
+292|En la adversidad, recuerda que los diamantes se forman bajo presión.|Desconocido|AutorDesconocido12.jpg|Destellos|Frase
+293|El cambio es difícil, pero no cambiar es fatal.|Simon Sinek|SimonSinek1.jpg|Destellos|Frase
+294|Cuando estás cortejando a una chica agradable, una hora parece un segundo. Cuando te sientas en una estufa ardiendo, un segundo parece una hora. Eso es la relatividad.|Albert Einstein|AlbertEinstein10.jpg|Destellos|Frase
+295|La casualidad no sonríe al que la desea, sino al que se la merece.|Santiago Ramón y Cajal|SantiagoRamonYCajal1.jpg|Destellos|Frase
+296|Las personas son más felices cuando están completamente inmersas en lo que hacen, cuando su cuerpo o mente son llevados hasta el límite en un esfuerzo voluntario por lograr algo difícil y valioso.|Mihaly Csikszentmihalyi|MihalyCsikszentmihalyi4.jpg|Destellos|Frase
+297|La gravitación no es responsable de que la gente se enamore.|Albert Einstein|AlbertEinstein3.jpg|Destellos|Frase
+298|El misterio es la cosa más bonita que podemos experimentar. Es la fuente de todo arte y ciencia verdadera.|Albert Einstein|AlbertEinstein4.jpg|Destellos|Frase
+299|Somos arquitectos de nuestro propio destino.|Albert Einstein|AlbertEinstein2.jpg|Destellos|Frase
+300|El éxito en la vida no se mide por lo que tenemos, sino por lo que disfrutamos haciendo.|Mihaly Csikszentmihalyi|MihalyCsikszentmihalyi5.jpg|Destellos|Frase
+301|El éxito no es el resultado del poder o el dinero, sino de un propósito claro y compartido.|Simon Sinek|SimonSinek5.jpg|Destellos|Frase
+302|La disciplina no es un rasgo que posees; es un hábito que construyes.|James Clear|JamesClear2.jpg|Destellos|Frase
+303|Mantén la calma; ya has pasado por esto antes, y lo superarás nuevamente.|Desconocido|AutorDesconocido4.jpg|Destellos|Frase
+304|El hombre puede soportar cualquier cómo si tiene un porqué.|Viktor Frankl|ViktorFrankl2.jpg|Destellos|Frase
+305|No esperes a ser perfecto para empezar. La perfección es el enemigo de la creación.|Elizabeth Gilbert|ElizabethGilbert2.jpg|Destellos|Frase
+306|La felicidad no es algo que suceda. No depende de eventos externos, sino de cómo los interpretamos.|Mihaly Csikszentmihalyi|MihalyCsikszentmihalyi3.jpg|Destellos|Frase
+307|Los hombres se casan con mujeres con la esperanza de que nunca van a cambiar. Las mujeres se casan con hombres con la esperanza de que ellos van a cambiar. Invariablemente ambos terminan decepcionados.|Albert Einstein|AlbertEinstein1.jpg|Destellos|Frase
+308|Locura es hacer lo mismo una y otra vez esperando un resultado diferente.|Albert Einstein|AlbertEinstein7.jpg|Destellos|Frase
+309|Te conviertes en aquello a lo que prestas tu atención.|Epicteto|Epitecto2.jpg|Destellos|Frase
+310|El silencio es un poderoso recurso; es donde encuentras claridad y paz.|Eckhart Tolle|EckhartTolle5.jpg|Destellos|Frase
+311|Las grandes personalidades están hechas de interés genuino en los demás.|Dale Carnegie|DaleCarnegie4.jpg|Destellos|Frase
+312|La esclavitud más denigrante es la de ser esclavo de uno mismo.|Séneca|Seneca4.jpg|Destellos|Frase
+313|No adelantes la vida; te perderás todas las cosas buenas en el camino.|Desconocido|AutorDesconocido9.jpg|Destellos|Frase
+314|Tu visión se aclarará solo cuando puedas mirar dentro de tu propio corazón. Quien mira afuera, sueña; quien mira adentro, despierta.|Carl Gustav Jung|CarlGustavJung3.jpg|Destellos|Frase
+315|Las excusas hacen que hoy sea más fácil pero mañana más difícil; la disciplina hace que hoy sea difícil pero mañana más fácil.|Desconocido|AutorDesconocido7.jpg|Destellos|Frase
+316|Una persona que nunca cometió un error nunca intentó algo nuevo.|Albert Einstein|AlbertEinstein2.jpg|Destellos|Frase
+317|El hombre se encuentra siempre en la encrucijada: debe elegir y, al hacerlo, se define a sí mismo.|Soren Kierkegaard|SorenKierkegaard2.jpg|Destellos|Frase
+318|Cuando dejas de perseguir lo incorrecto, lo correcto te alcanza.|Desconocido|AutorDesconocido4.jpg|Destellos|Frase
+319|El río se adapta a las formas de sus orillas, sin dejar de ser río.|Lao-Tsé|LaoTse3.jpg|Destellos|Frase
+320|La fe comienza donde termina el pensamiento.|Soren Kierkegaard|SorenKierkegaard4.jpg|Destellos|Frase
+321|No te preocupes por el futuro; ocúpate del presente y el futuro se cuidará solo.|Eckhart Tolle|EckhartTolle2.jpg|Destellos|Frase
+322|Hoy es la vida, la única vida de la que estás seguro. Sácale provecho al máximo.|Dale Carnegie|DaleCarnegie2.jpg|Destellos|Frase
+323|Las cosas en las que piensas determinan la calidad de tu mente; tu alma toma el color de tus pensamientos.|Marco Aurelio|MarcoAurelio2.jpg|Destellos|Frase
+324|La motivación es lo que te pone en marcha, el hábito es lo que te mantiene.|Jim Rohn|JimRohn2.jpg|Destellos|Frase
+325|Recuerda que la empatía no es lo mismo que la simpatía. Tú puedes entender los sentimientos de una persona sin tener por ello que estar de acuerdo en las acciones que emprende por cómo se siente.|Mario Alonso Puig|MarioAlonsoPuig5.jpg|Destellos|Frase
+326|Poco basta cada día si cada día logramos ese poco.|Santiago Ramón y Cajal|SantiagoRamonYCajal3.jpg|Destellos|Frase
+327|Nunca consideres el estudio como una obligación, sino como la oportunidad para penetrar en el bello y maravilloso mundo del saber.|Albert Einstein|AlbertEinstein7.jpg|Destellos|Frase
+328|El ignorante critica porque cree saberlo todo. El sabio respeta porque reconoce que puede aprender algo.|Albert Einstein|AlbertEinstein1.jpg|Destellos|Frase
+329|No podemos separar la mente del cuerpo, ya que están intrínsecamente conectados.|Antonio Damasio|AntonioDamasio5.jpg|Destellos|Frase
+330|Te vuelves mentalmente débil cuando tu vida es demasiado cómoda.|Desconocido|AutorDesconocido8.jpg|Destellos|Frase
+331|Mi religión consiste en una humilde admiración del ilimitado espíritu superior que se revela en los detalles leves que podemos percibir con nuestra frágil y débil mente.|Albert Einstein|AlbertEinstein9.jpg|Destellos|Frase
+332|El coeficiente intelectual te puede hacer entrar a la puerta, pero es la inteligencia emocional la que determinará qué tan lejos llegues.|Daniel Goleman|DanielGoleman2.jpg|Destellos|Frase
+333|Mira profundamente en la naturaleza y entonces entenderás todo mejor.|Albert Einstein|AlbertEinstein2.jpg|Destellos|Frase
+334|La debilidad de actitud se vuelve debilidad de carácter.|Albert Einstein|AlbertEinstein9.jpg|Destellos|Frase
+335|El ejemplo no es otra forma de enseñar, es la única forma de enseñar.|Albert Einstein|AlbertEinstein2.jpg|Destellos|Frase
+336|Las emociones positivas tienen un impacto beneficioso en nuestro bienestar mental y físico.|Antonio Damasio|AntonioDamasio3.jpg|Destellos|Frase
+337|La felicidad no depende de lo que tienes o de quién eres. Depende únicamente de lo que piensas.|Dale Carnegie|DaleCarnegie5.jpg|Destellos|Frase
+338|El sabio actúa sin imponerse y enseña sin palabras.|Lao-Tsé|LaoTse1.jpg|Destellos|Frase
+339|Darte cuenta de que no entiendes es una virtud; no darte cuenta de que no entiendes es un defecto.|Lao-Tsé|LaoTse5.jpg|Destellos|Frase
+340|Solo aquellos que intentan el absurdo pueden lograr lo imposible.|Albert Einstein|AlbertEinstein6.jpg|Destellos|Frase
+341|La conciencia es el milagro de saber que existimos y que somos entidades capaces de cambiar el curso de nuestra vida.|Antonio Damasio|AntonioDamasio1.jpg|Destellos|Frase
+342|Por tu tranquilidad no dejes que la gente sepa demasiado sobre ti.|Desconocido|AutorDesconocido4.jpg|Destellos|Frase
+343|La vida es como montar en bicicleta. Para mantener el equilibrio, debes seguir moviéndote.|Albert Einstein|AlbertEinstein8.jpg|Destellos|Frase
+344|Las opiniones y los problemas de otras personas pueden ser contagiosos. No te sabotees a ti mismo adoptando involuntariamente actitudes negativas e improductivas a través de tus amistades con otros.|Séneca|Seneca1.jpg|Destellos|Frase
+345|La creatividad surge de la interacción entre nuestras emociones y nuestros pensamientos.|Antonio Damasio|AntonioDamasio2.jpg|Destellos|Frase
+346|La felicidad no es algo que se encuentra, es algo que se crea.|Mihaly Csikszentmihalyi|MihalyCsikszentmihalyi2.jpg|Destellos|Frase
+347|La mayoría de las cosas que tememos nunca suceden.|Dale Carnegie|DaleCarnegie4.jpg|Destellos|Frase
+348|La perfección se alcanza no cuando no hay más que añadir, sino cuando no hay nada que quitar.|Lao-Tsé|LaoTse2.jpg|Destellos|Frase
+349|La educación es lo que queda una vez que olvidamos todo lo que se aprendió en la escuela.|Albert Einstein|AlbertEinstein6.jpg|Destellos|Frase
+350|La verdadera inteligencia no se trata de lo que sabes, sino de cómo manejas lo que sientes.|Daniel Goleman|DanielGoleman5.jpg|Destellos|Frase
+351|La curiosidad es el motor del progreso. Preguntar ¿por qué no? es el inicio de la innovación.|Simon Sinek|SimonSinek2.jpg|Destellos|Frase
+352|No puedes comenzar el próximo capítulo de tu vida si sigues releyendo el último.|Desconocido|AutorDesconocido14.jpg|Destellos|Frase
+353|Nunca lamentes un día en tu vida; los buenos días dan felicidad, los malos dan experiencia, los peores dan lecciones, y los mejores dan recuerdos.|Desconocido|AutorDesconocido2.jpg|Destellos|Frase
+354|Cuando te das cuenta de que no te falta nada, el mundo entero te pertenece.|Lao-Tsé|LaoTse5.jpg|Destellos|Frase
+355|La inteligencia emocional es la capacidad de reconocer nuestros propios sentimientos y los de los demás, de motivarnos y de manejar bien las emociones dentro de nosotros y en nuestras relaciones.|Daniel Goleman|DanielGoleman1.jpg|Destellos|Frase
+356|Las emociones negativas tienen un propósito evolutivo, ya que nos ayudan a evitar peligros y amenazas.|Antonio Damasio|AntonioDamasio3.jpg|Destellos|Frase
+357|No es que sea muy inteligente, es que paso más tiempo con los problemas.|Albert Einstein|AlbertEinstein6.jpg|Destellos|Frase
+358|Atrévete a ser curioso. La curiosidad forma parte de la naturaleza humana. Si nos hubiéramos dejado guiar por la conocida frase «más vale pájaro en mano que ciento volando», todavía seguiríamos viviendo en cuevas.|Mario Alonso Puig|MarioAlonsoPuig4.jpg|Destellos|Frase
+359|La vida nunca se vuelve insoportable por las circunstancias, sino solo por la falta de significado y propósito.|Viktor Frankl|ViktorFrankl1.jpg|Destellos|Frase
+360|La única cosa realmente valiosa es la intuición.|Albert Einstein|AlbertEinstein10.jpg|Destellos|Frase
+361|Lo peor no es cometer un error, sino tratar de justificarlo, en vez de usarlo como aviso providencial de nuestra ligereza.|Santiago Ramón y Cajal|SantiagoRamonYCajal5.jpg|Destellos|Frase
+362|Si la gente es buena solo por temor al castigo o la esperanza de una recompensa, entonces lo siento de verdad.|Albert Einstein|AlbertEinstein6.jpg|Destellos|Frase
+363|Acepta lo que es, deja ir lo que fue y ten fe en lo que será.|Eckhart Tolle|EckhartTolle1.jpg|Destellos|Frase
+364|El mayor desafío no es tener éxito en la vida, sino tener la habilidad de manejar nuestras emociones.|Daniel Goleman|DanielGoleman2.jpg|Destellos|Frase
+365|La madurez del hombre es haber vuelto a encontrar la seriedad con que jugaba cuando era niño.|Friedrich Nietzsche|FriedrichNietzsche4.jpg|Destellos|Frase
+366|Las posesiones, el éxito exterior, la publicidad, el lujo para mí siempre han sido despreciables. Creo que una forma de vida sencilla y sin pretensiones es lo mejor para todos, lo mejor tanto para el cuerpo como para la mente.|Albert Einstein|AlbertEinstein10.jpg|Destellos|Frase
+367|El autoconocimiento es el primer paso para tener una vida más plena.|Marian Rojas Estapé|MarianRojasEstape4.jpg|Destellos|Frase
+368|La lógica te llevará desde A hasta B. La imaginación te llevará a todas partes.|Albert Einstein|AlbertEinstein5.jpg|Destellos|Frase
+369|Entre el estímulo y la respuesta hay un espacio. En ese espacio reside nuestra libertad y nuestro poder para elegir nuestra respuesta. En nuestra respuesta se encuentra nuestro crecimiento y nuestra libertad.|Viktor Frankl|ViktorFrankl3.jpg|Destellos|Frase
+370|Cuando te liberas del ego, descubres el verdadero propósito de tu vida.|Eckhart Tolle|EckhartTolle4.jpg|Destellos|Frase
+371|Los momentos de calma nos permiten ver las cosas con más claridad, comprender nuestras emociones y tomar mejores decisiones.|Daniel Goleman|DanielGoleman1.jpg|Destellos|Frase
+372|Lo que resiste persiste, lo que abrazas se desvanece.|Carl Gustav Jung|CarlGustavJung1.jpg|Destellos|Frase
+373|Si alguien intenta derribarte, ya está por debajo de ti.|Desconocido|AutorDesconocido17.jpg|Destellos|Frase
+374|La educación no consiste en llenar un balde, sino en encender una chispa.|Henry Ford|HenryFord1.jpg|Destellos|Frase
+375|El mundo como lo hemos creado es un proceso de nuestro pensamiento. No puede ser cambiado sin cambiar nuestro pensamiento.|Albert Einstein|AlbertEinstein8.jpg|Destellos|Frase
+376|El coraje no significa no tener miedo; significa seguir adelante a pesar de él.|Elizabeth Gilbert|ElizabethGilbert1.jpg|Destellos|Frase
+377|Dominar a otros es fuerza. Dominarse a uno mismo es el verdadero poder.|Lao-Tsé|LaoTse5.jpg|Destellos|Frase
+378|El estrés no está en lo que nos pasa, sino en lo que pensamos sobre lo que nos pasa.|Marian Rojas Estapé|MarianRojasEstape3.jpg|Destellos|Frase
+379|La sabiduría no es un producto de la educación, sino del intento de toda una vida para adquirirla.|Albert Einstein|AlbertEinstein5.jpg|Destellos|Frase
+380|No fracasas hasta que dejas de intentarlo.|Albert Einstein|AlbertEinstein3.jpg|Destellos|Frase
+381|Aquel que lucha con monstruos debe cuidarse de no convertirse en uno.|Friedrich Nietzsche|FriedrichNietzsche3.jpg|Destellos|Frase
+382|El amor es la fuente de energía más poderosa del mundo, porque no tiene límites.|Albert Einstein|AlbertEinstein6.jpg|Destellos|Frase
+383|La alegría de ver y entender es el más perfecto don de la naturaleza.|Albert Einstein|AlbertEinstein3.jpg|Destellos|Frase
+384|El alma se tiñe del color de tus pensamientos.|Marco Aurelio|MarcoAurelio2.jpg|Destellos|Frase
+385|Guarda frecuente silencio, no digas más que las cosas necesarias y dilas en pocas palabras.|Epicteto|Epitecto3.jpg|Destellos|Frase
+386|Hay que hacer algo con las ideas porque no duran mucho.|Santiago Ramón y Cajal|SantiagoRamonYCajal1.jpg|Destellos|Frase
+387|Nadie está demasiado ocupado; es solo una cuestión de prioridades.|Desconocido|AutorDesconocido3.jpg|Destellos|Frase
+388|Remar con más fuerza no ayuda si el bote se dirige en la dirección incorrecta.|Desconocido|AutorDesconocido9.jpg|Destellos|Frase
+389|Si no puedes entenderte a ti mismo, no esperes que los demás lo hagan.|Haruki Murakami|HarukiMurakami1.jpg|Destellos|Frase
+390|Tu pasado es un lugar para aprender y crecer, no para vivir.|Desconocido|AutorDesconocido2.jpg|Destellos|Frase
+391|La suerte es lo que sucede cuando la preparación se encuentra con la oportunidad.|Séneca|Seneca3.jpg|Destellos|Frase
+392|Si piensas que puedes hacer algo, o piensas que no puedes hacer algo, estás en lo correcto.|Henry Ford|HenryFord1.jpg|Destellos|Frase
+393|Se ha vuelto terriblemente obvio que nuestra tecnología ha superado nuestra humanidad.|Albert Einstein|AlbertEinstein8.jpg|Destellos|Frase
+394|Todo el mundo es un genio. Pero si juzgas un pez por su habilidad de escalar un árbol, pasará su vida entera creyendo que es un necio.|Albert Einstein|AlbertEinstein7.jpg|Destellos|Frase
+395|La vida no es un problema que debe ser resuelto, sino una realidad que debe ser experimentada.|Friedrich Nietzsche|FriedrichNietzsche3.jpg|Destellos|Frase
+396|Hasta que no hagas consciente lo inconsciente, este dirigirá tu vida y tú lo llamarás destino.|Carl Gustav Jung|CarlGustavJung1.jpg|Destellos|Frase
+397|No compares tu vida con la de los demás; no tienes idea de cuál es su camino.|Desconocido|AutorDesconocido14.jpg|Destellos|Frase
+398|El éxito es obtener lo que quieres. La felicidad es querer lo que obtienes.|Dale Carnegie|DaleCarnegie2.jpg|Destellos|Frase
+399|Cuanto más te aferras a las cosas, más sufres. Deja ir y encuentra la libertad.|Eckhart Tolle|EckhartTolle3.jpg|Destellos|Frase
+400|El tiempo fluye a su propia velocidad. Nosotros simplemente lo seguimos.|Haruki Murakami|HarukiMurakami3.jpg|Destellos|Frase
+401|Todos somos muy ignorantes. Lo que ocurre es que no todos ignoramos las mismas cosas.|Albert Einstein|AlbertEinstein1.jpg|Destellos|Frase
+402|Cuanto más te interesas en los demás, más interesante te encuentran.|Desconocido|AutorDesconocido15.jpg|Destellos|Frase
+403|Calidad significa hacer las cosas bien incluso cuando nadie está mirando.|Henry Ford|HenryFord5.jpg|Destellos|Frase
+404|La mejor forma de prepararse para el mañana es concentrarse con toda tu inteligencia, todo tu entusiasmo, en hacer hoy un trabajo excelente.|Dale Carnegie|DaleCarnegie3.jpg|Destellos|Frase
+405|El cuerpo es la fuente de nuestras emociones, y nuestras emociones son la base de nuestra experiencia humana.|Antonio Damasio|AntonioDamasio4.jpg|Destellos|Frase
+406|Lo que niegas te somete, lo que aceptas te transforma.|Carl Gustav Jung|CarlGustavJung2.jpg|Destellos|Frase
+407|No sé con qué armas se luchará en la III guerra mundial, pero la IV guerra mundial será luchada con palos y piedras.|Albert Einstein|AlbertEinstein8.jpg|Destellos|Frase
+408|Un gran marinero puede navegar aunque sus velas sean de alquiler.|Séneca|Seneca3.jpg|Destellos|Frase
+409|Nada sucede hasta que algo se mueve.|Albert Einstein|AlbertEinstein9.jpg|Destellos|Frase
+410|El crecimiento intelectual debe comenzar en el nacimiento y cesar solo con la muerte.|Albert Einstein|AlbertEinstein10.jpg|Destellos|Frase
+411|Tanto si piensas que puedes como si piensas que no puedes, estás en lo cierto.|Henry Ford|HenryFord2.jpg|Destellos|Frase
+412|El primer paso para llegar a algún lugar es decidir que no estás dispuesto a quedarte donde estás.|Desconocido|AutorDesconocido13.jpg|Destellos|Frase
+413|Mientras el cerebro sea un misterio, el universo continuará siendo un misterio.|Santiago Ramón y Cajal|SantiagoRamonYCajal4.jpg|Destellos|Frase
+414|El cambio es la ley de la vida; aceptar el cambio es aceptar la vida misma.|Lao-Tsé|LaoTse7.jpg|Destellos|Frase
+415|El primer paso para inspirar a los demás es mostrar genuino interés por sus objetivos y aspiraciones.|Dale Carnegie|DaleCarnegie3.jpg|Destellos|Frase
+416|Puedes ganar más amigos en dos meses interesándote en otras personas que en dos años tratando de que las personas se interesen en ti.|Dale Carnegie|DaleCarnegie1.jpg|Destellos|Frase
+417|El que conoce a los demás es sabio; el que se conoce a sí mismo es iluminado.|Lao-Tsé|LaoTse1.jpg|Destellos|Frase
+418|El sufrimiento que no se transforma, se transfiere.|Richard Rohr|RichardRohr1.jpg|Destellos|Frase
+419|No es la especie más fuerte la que sobrevive, sino la más adaptable al cambio.|Charles Darwin|CharlesDarwin1.jpg|Destellos|Frase
+420|La atención es la forma más básica de amor.|John Tarrant|JohnTarrant1.jpg|Destellos|Frase
+421|Todo modelo es incorrecto, pero algunos son útiles.|George Box|GeorgeBox1.jpg|Destellos|Frase
+422|Quien no puede cambiar su mente no puede cambiar nada.|George Bernard Shaw|GeorgeBernardShaw1.jpg|Destellos|Frase
+423|Vivir sin examinar la propia vida no merece la pena.|Sócrates|Socrates1.jpg|Destellos|Frase
+424|El silencio es el lenguaje de Dios; todo lo demás es mala traducción.|Rumi|Rumi1.jpg|Destellos|Frase
+425|La compasión no es lástima; es la capacidad de sentir con el otro sin perderse a uno mismo.|Thich Nhat Hanh|ThichNhatHanh1.jpg|Destellos|Frase
+426|No hay camino hacia la paz; la paz es el camino.|Mahatma Gandhi|MahatmaGandhi1.jpg|Destellos|Frase
+427|El cerebro no registra la diferencia entre una experiencia real y una imaginada con suficiente detalle.|Joseph LeDoux|JosephLeDoux1.jpg|Destellos|Frase
+428|La neuroplasticidad nos dice que el cerebro que usas hoy no es el que tendrás mañana.|Michael Merzenich|MichaelMerzenich1.jpg|Destellos|Frase
+429|La mente que medita regularmente cambia su estructura física.|Sara Lazar|SaraLazar1.jpg|Destellos|Frase
+430|El inconsciente es el océano del ser; la conciencia, apenas su orilla.|Carl Gustav Jung|CarlGustavJung1.jpg|Destellos|Frase
+431|No somos responsables de nuestras emociones, pero sí de lo que hacemos con ellas.|Jorge Bucay|JorgeBucay1.jpg|Destellos|Frase
+432|Donde termina el lenguaje, comienza la música.|E.T.A. Hoffmann|ETAHoffmann1.jpg|Destellos|Frase
+433|Un hombre que domina sus pasiones es dueño del mundo.|Proverbio estoico|AutorDesconocido22.jpg|Destellos|Frase
+434|La emoción interrumpe el pensamiento; el pensamiento, bien usado, regula la emoción.|Antonio Damasio|AntonioDamasio1.jpg|Destellos|Frase
+435|El dolor es inevitable; la narrativa que construyes sobre él, no.|Viktor Frankl|ViktorFrankl1.jpg|Destellos|Frase
+436|No hay atajos hacia un lugar que valga la pena ir.|Beverly Sills|BeverlySills1.jpg|Destellos|Frase
+437|Lo que niegas te gobierna; lo que aceptas te libera.|Carl Gustav Jung|CarlGustavJung2.jpg|Destellos|Frase
+438|El miedo es un mal consejero pero un excelente mensajero.|Aforismo anónimo|AutorDesconocido23.jpg|Destellos|Frase
+439|No existe viento favorable para el marinero que no sabe adónde va.|Séneca|Seneca1.jpg|Destellos|Frase
+440|La gratitud transforma lo que tenemos en suficiente.|Aforismo anónimo|AutorDesconocido24.jpg|Destellos|Frase
+441|El primer deber del amor es escuchar.|Paul Tillich|PaulTillich1.jpg|Destellos|Frase
+442|Somos lo que repetidamente hacemos. La excelencia no es un acto, sino un hábito.|Aristóteles|Aristoteles1.jpg|Destellos|Frase
+443|La ira es un ácido que daña más el recipiente que lo contiene que aquello sobre lo que se vierte.|Mark Twain|MarkTwain1.jpg|Destellos|Frase
+444|El arte es la mentira que nos permite conocer la verdad.|Pablo Picasso|PabloPicasso1.jpg|Destellos|Frase
+445|No busques que los acontecimientos sucedan como deseas; desea que sucedan como son.|Epicteto|Epitecto1.jpg|Destellos|Frase
+446|La humildad no es pensar menos de ti mismo, sino pensar menos en ti mismo.|C.S. Lewis|CSLewis1.jpg|Destellos|Frase
+447|El cerebro social necesita de otros cerebros para funcionar plenamente.|Daniel Goleman|DanielGoleman1.jpg|Destellos|Frase
+448|Nada fortalece más la autoridad que el silencio.|Charles de Gaulle|CharlesDeGaulle1.jpg|Destellos|Frase
+449|El hombre sabio no dice todo lo que piensa, pero siempre piensa todo lo que dice.|Aristóteles|Aristoteles2.jpg|Destellos|Frase
+450|La verdad es rara vez pura y nunca simple.|Oscar Wilde|OscarWilde1.jpg|Destellos|Frase
+451|No importa cuán lento vayas, siempre y cuando no te detengas.|Confucio|Confucio1.jpg|Destellos|Frase
+452|El que lee mucho y camina mucho, ve mucho y sabe mucho.|Miguel de Cervantes|MiguelDeCervantes1.jpg|Destellos|Frase
+453|La vida no es lo que uno vivió, sino lo que uno recuerda y cómo lo recuerda.|Gabriel García Márquez|GabrielGarciaMarquez1.jpg|Destellos|Frase
+454|Cuando el carácter de un hombre no te quede claro, mira a sus amigos.|Proverbio japonés|AutorDesconocido25.jpg|Destellos|Frase
+455|El único verdadero viaje sería no ir hacia nuevos paisajes, sino tener otros ojos.|Marcel Proust|MarcelProust1.jpg|Destellos|Frase
+456|La sabiduría empieza en la perplejidad.|Sócrates|Socrates2.jpg|Destellos|Frase
+457|Trata a un hombre tal como es y seguirá siendo lo que es. Trátalo como puede ser y se convertirá en lo que debe ser.|Johann Wolfgang von Goethe|JohannWolfgangVonGoethe1.jpg|Destellos|Frase
+458|El cerebro bajo estrés crónico pierde capacidad de aprendizaje y memoria.|Bruce McEwen|BruceMcEwen1.jpg|Destellos|Frase
+459|No tengas miedo de la lentitud; ten miedo solo de detenerte.|Proverbio chino|AutorDesconocido26.jpg|Destellos|Frase
+460|La música da alma al universo, alas a la mente y vuelo a la imaginación.|Platón|Platon1.jpg|Destellos|Frase
+461|El cerebro es el único órgano que se autoestudia.|Aforismo anónimo|AutorDesconocido27.jpg|Destellos|Frase
+462|Conocerse a uno mismo es el comienzo de toda sabiduría.|Aristóteles|Aristoteles3.jpg|Destellos|Frase
+463|La vida es demasiado importante para tomársela en serio.|Oscar Wilde|OscarWilde2.jpg|Destellos|Frase
+464|El éxito es la suma de pequeños esfuerzos repetidos día tras día.|Robert Collier|RobertCollier1.jpg|Destellos|Frase
+465|La mayor victoria es la que se logra sobre uno mismo.|Platón|Platon2.jpg|Destellos|Frase
+466|Aquello a lo que te resistes, persiste. Aquello que observas sin juicio, se transforma.|Carl Gustav Jung|CarlGustavJung3.jpg|Destellos|Frase
+467|El cerebro aprende mejor cuando está en un estado de curiosidad activa.|Jaak Panksepp|JaakPanksepp1.jpg|Destellos|Frase
+468|La palabra es plata, el silencio es oro.|Proverbio árabe|AutorDesconocido28.jpg|Destellos|Frase
+469|No hay nada permanente excepto el cambio.|Heráclito|Heraclito1.jpg|Destellos|Frase
+470|La confianza en uno mismo es el primer secreto del éxito.|Ralph Waldo Emerson|RalphWaldoEmerson1.jpg|Destellos|Frase
+471|Primero te ignoran, luego se ríen de ti, luego te atacan, luego ganas.|Mahatma Gandhi|MahatmaGandhi2.jpg|Destellos|Frase
+472|El sistema nervioso no distingue entre amenaza real e imaginaria; ambas activan la misma respuesta de estrés.|Robert Sapolsky|RobertSapolsky1.jpg|Destellos|Frase
+473|La libertad no es hacer lo que quieres, sino querer lo que haces.|Jean-Paul Sartre|JeanPaulSartre1.jpg|Destellos|Frase
+474|La belleza salvará al mundo.|Fiódor Dostoievski|FiodorDostoievski1.jpg|Destellos|Frase
+475|Cada vez que aprendes algo nuevo, tu cerebro forma conexiones físicas nuevas.|Eric Kandel|EricKandel1.jpg|Destellos|Frase
+476|La soledad es el precio de ser diferente.|Aforismo anónimo|AutorDesconocido29.jpg|Destellos|Frase
+477|No hay mayor riqueza que la sabiduría; no hay mayor pobreza que la ignorancia.|Proverbio árabe|AutorDesconocido30.jpg|Destellos|Frase
+478|Cuando cambias la forma en que ves las cosas, las cosas que ves cambian.|Wayne Dyer|WayneDyer1.jpg|Destellos|Frase
+479|El sueño es el servicio de mantenimiento del cerebro.|Matthew Walker|MatthewWalker1.jpg|Destellos|Frase
+480|No puedes enseñarle nada a un hombre; solo puedes ayudarlo a encontrar la respuesta dentro de sí mismo.|Galileo Galilei|GalileoGalilei1.jpg|Destellos|Frase
+481|La mente es su propio lugar y puede hacer un cielo del infierno o un infierno del cielo.|John Milton|JohnMilton1.jpg|Destellos|Frase
+482|Un cerebro bien formado vale más que un cerebro bien lleno.|Michel de Montaigne|MichelDeMontaigne1.jpg|Destellos|Frase
+483|La única manera de hacer un gran trabajo es amar lo que haces.|Steve Jobs|SteveJobs1.jpg|Destellos|Frase
+484|El amor es la única fuerza capaz de transformar a un enemigo en amigo.|Martin Luther King|MartinLutherKing1.jpg|Destellos|Frase
+485|Equivocarse es humano; perseverar en el error es diabólico.|San Agustín|SanAgustin1.jpg|Destellos|Frase
+486|La verdadera generosidad hacia el futuro consiste en darlo todo al presente.|Albert Camus|AlbertCamus1.jpg|Destellos|Frase
+487|Actuar con bondad pero sin esperar gratitud es la forma más alta de generosidad.|Proverbio budista|AutorDesconocido34.jpg|Destellos|Frase
+488|La mayor parte de las sombras en la vida provienen de estar parados en nuestra propia luz.|Ralph Waldo Emerson|RalphWaldoEmerson2.jpg|Destellos|Frase
+489|La paciencia es amarga, pero su fruto es dulce.|Jean-Jacques Rousseau|JeanJacquesRousseau1.jpg|Destellos|Frase
+490|El estrés postraumático no es una debilidad; es la cicatriz de un sistema nervioso que sobrevivió.|Bessel van der Kolk|BesselVanDerKolk1.jpg|Destellos|Frase
+491|No temas a la perfección; nunca la alcanzarás.|Salvador Dalí|SalvadorDali1.jpg|Destellos|Frase
+492|El conocimiento habla, pero la sabiduría escucha.|Jimi Hendrix|JimiHendrix1.jpg|Destellos|Frase
+493|La verdad es como el sol: puedes taparla un momento, pero no desaparece.|Elvis Presley|ElvisPresley1.jpg|Destellos|Frase
+494|El cerebro en estado de flow libera dopamina, norepinefrina y anandamida simultáneamente.|Steven Kotler|StevenKotler1.jpg|Destellos|Frase
+495|Primero aprende a gobernar tus pensamientos, luego el mundo se gobernará solo.|Proverbio zen|AutorDesconocido40.jpg|Destellos|Frase
+496|No hay nada noble en ser superior a otro hombre; la verdadera nobleza es ser superior a tu yo anterior.|Ernest Hemingway|ErnestHemingway1.jpg|Destellos|Frase
+497|El tiempo que disfrutas perder no es tiempo perdido.|Bertrand Russell|BertrandRussell1.jpg|Destellos|Frase
+498|La adversidad revela el genio; la prosperidad lo oculta.|Horacio|Horacio1.jpg|Destellos|Frase
+499|Cuando el alumno está listo, el maestro aparece.|Proverbio budista|AutorDesconocido43.jpg|Destellos|Frase
+500|El cerebro busca patrones incluso donde no los hay; por eso necesitamos ciencia.|Daniel Kahneman|DanielKahneman1.jpg|Destellos|Frase
+501|Sé el cambio que quieres ver en el mundo.|Mahatma Gandhi|MahatmaGandhi3.jpg|Destellos|Frase
+502|La inteligencia es la capacidad de adaptarse al cambio.|Stephen Hawking|StephenHawking1.jpg|Destellos|Frase
+503|La conciencia es la única cosa en el universo que no puede ser explicada desde afuera.|David Chalmers|DavidChalmers1.jpg|Destellos|Frase
+504|La música activa más áreas del cerebro simultáneamente que cualquier otra actividad humana.|Oliver Sacks|OliverSacks1.jpg|Destellos|Frase
+505|El que supera a los demás es fuerte; el que se supera a sí mismo es poderoso.|Lao-Tsé|LaoTse3.jpg|Destellos|Frase
+506|La grandeza no consiste en ser fuerte, sino en usar bien la fuerza.|Henry Ward Beecher|HenryWardBeecher1.jpg|Destellos|Frase
+507|El sistema límbico no tiene concepto del tiempo; por eso las heridas del pasado se sienten presentes.|Bessel van der Kolk|BesselVanDerKolk2.jpg|Destellos|Frase
+508|No puedes cruzar el mar simplemente mirando el agua.|Rabindranath Tagore|RabindranathTagore1.jpg|Destellos|Frase
+509|La oscuridad no puede expulsar a la oscuridad; solo la luz puede hacerlo.|Martin Luther King|MartinLutherKing2.jpg|Destellos|Frase
+510|Quien lucha puede perder; quien no lucha ya perdió.|Bertolt Brecht|BertoltBrecht1.jpg|Destellos|Frase
+511|El secreto del cambio es enfocar toda tu energía no en luchar contra lo viejo, sino en construir lo nuevo.|Sócrates|Socrates3.jpg|Destellos|Frase
+512|La dignidad no consiste en tener honores, sino en merecer los que se tienen.|Aristóteles|Aristoteles4.jpg|Destellos|Frase
+513|El cuerpo recuerda lo que la mente olvida.|Bessel van der Kolk|BesselVanDerKolk3.jpg|Destellos|Frase
+514|El verdadero peligro no es que las máquinas piensen como humanos, sino que los humanos piensen como máquinas.|Sydney J. Harris|SydneyJHarris1.jpg|Destellos|Frase
+515|No hagas a los demás lo que no quieras que te hagan a ti.|Confucio|Confucio2.jpg|Destellos|Frase
+516|El cerebro en reposo no descansa; consolida memorias y procesa emociones.|Matthew Walker|MatthewWalker2.jpg|Destellos|Frase
+517|La belleza es la promesa de la felicidad.|Stendhal|Stendhal1.jpg|Destellos|Frase
+518|Quien no conoce la historia está condenado a repetirla.|Edmund Burke|EdmundBurke1.jpg|Destellos|Frase
+519|La mente inconsciente procesa once millones de bits por segundo; la consciente, apenas cuarenta.|Timothy Wilson|TimothyWilson1.jpg|Destellos|Frase
+520|El coraje no es ausencia de miedo, sino el juicio de que algo es más importante que el miedo.|Ambrose Redmoon|AmbroseRedmoon1.jpg|Destellos|Frase
+521|Las palabras tienen el poder de destruir y sanar; cuando son verdaderas y amables, pueden cambiar el mundo.|Buda|Buda1.jpg|Destellos|Frase
+522|El éxito no se mide por la altura alcanzada, sino por los obstáculos superados.|Booker T. Washington|BookerTWashington1.jpg|Destellos|Frase
+523|Pensar es el trabajo más difícil que existe; quizás por eso tan pocos se dedican a él.|Henry Ford|HenryFord1.jpg|Destellos|Frase
+524|El amor no mira con los ojos, sino con la mente.|William Shakespeare|WilliamShakespeare1.jpg|Destellos|Frase
+525|La creatividad es conectar cosas que otros no ven conectadas.|Steve Jobs|SteveJobs2.jpg|Destellos|Frase
+526|El cerebro bajo amenaza percibida cierra el acceso a la corteza prefrontal.|Daniel Siegel|DanielSiegel1.jpg|Destellos|Frase
+527|Quien teme sufrir, ya sufre lo que teme.|Michel de Montaigne|MichelDeMontaigne2.jpg|Destellos|Frase
+528|La disciplina es recordar lo que realmente quieres.|David Campbell|DavidCampbell1.jpg|Destellos|Frase
+529|Cada neurona que dispara junto a otra se conecta con ella; cada pensamiento repetido se vuelve estructura.|Donald Hebb|DonaldHebb1.jpg|Destellos|Frase
+530|El mejor momento para plantar un árbol fue hace veinte años; el segundo mejor momento es ahora.|Proverbio chino|AutorDesconocido52.jpg|Destellos|Frase
+531|No es lo que te pasa, sino cómo decides qué significa lo que te pasa.|Tony Robbins|TonyRobbins1.jpg|Destellos|Frase
+532|El ser humano es el único animal que puede decidir no ser lo que es.|Jean-Paul Sartre|JeanPaulSartre2.jpg|Destellos|Frase
+533|La amígdala no razona; reacciona. Por eso el miedo siempre parece más urgente que la razón.|Joseph LeDoux|JosephLeDoux2.jpg|Destellos|Frase
+534|Lo que sabemos es una gota; lo que ignoramos es un océano.|Isaac Newton|IsaacNewton1.jpg|Destellos|Frase
+535|La memoria emocional dura más que cualquier otro tipo de memoria.|Joseph LeDoux|JosephLeDoux3.jpg|Destellos|Frase
+536|El corazón tiene razones que la razón no conoce.|Blaise Pascal|BlaisePascal1.jpg|Destellos|Frase
+537|Un pensamiento negativo repetido se convierte en creencia; una creencia en destino.|Aforismo anónimo|AutorDesconocido60.jpg|Destellos|Frase
+538|El cerebro social es el cerebro más evolucionado; necesitamos conexión tanto como oxígeno.|Matthew Lieberman|MatthewLieberman1.jpg|Destellos|Frase
+539|No hay nada más poderoso que una idea a la que le ha llegado su tiempo.|Victor Hugo|VictorHugo1.jpg|Destellos|Frase
+540|El placer en el trabajo pone perfección en el trabajo.|Aristóteles|Aristoteles5.jpg|Destellos|Frase
+541|El cerebro humano contiene más conexiones que estrellas hay en la Vía Láctea.|David Eagleman|DavidEagleman1.jpg|Destellos|Frase
+542|Aprende las reglas como un profesional, para poder romperlas como un artista.|Pablo Picasso|PabloPicasso2.jpg|Destellos|Frase
+543|La humildad es la base de todas las virtudes.|Confucio|Confucio3.jpg|Destellos|Frase
+544|No te conviertas en esclavo de tus pensamientos; tú eres quien los observa.|Eckhart Tolle|EckhartTolle1.jpg|Destellos|Frase
+545|El hombre que mueve montañas comienza cargando pequeñas piedras.|Confucio|Confucio4.jpg|Destellos|Frase
+546|La oxitocina reduce el cortisol; por eso un abrazo genuino calma el estrés.|Sue Carter|SueCarter1.jpg|Destellos|Frase
+547|Todo lo que puedes imaginar es real.|Pablo Picasso|PabloPicasso3.jpg|Destellos|Frase
+548|Prefiero morir de pie que vivir de rodillas.|Emiliano Zapata|EmilianoZapata1.jpg|Destellos|Frase
+549|La conciencia es un río, no un lago; fluye, no se estanca.|William James|WilliamJames1.jpg|Destellos|Frase
+550|El hombre que no lee no tiene ventaja sobre el que no sabe leer.|Mark Twain|MarkTwain2.jpg|Destellos|Frase
+551|No hay luz sin sombra, ni paz psíquica sin imperfección.|Carl Gustav Jung|CarlGustavJung4.jpg|Destellos|Frase
+552|El cerebro recompensa la generosidad con dopamina; dar es neurológicamente placentero.|Jorge Moll|JorgeMoll1.jpg|Destellos|Frase
+553|La única constante en la vida es el cambio.|Heráclito|Heraclito2.jpg|Destellos|Frase
+554|Quien conquista a los demás tiene fuerza; quien se conquista a sí mismo es verdaderamente poderoso.|Lao-Tsé|LaoTse4.jpg|Destellos|Frase
+555|El asombro es el principio de la filosofía.|Platón|Platon3.jpg|Destellos|Frase
+556|Somos la suma de nuestras elecciones.|Jean-Paul Sartre|JeanPaulSartre3.jpg|Destellos|Frase
+557|El estrés agudo agudiza los sentidos; el estrés crónico los destruye.|Robert Sapolsky|RobertSapolsky2.jpg|Destellos|Frase
+558|No hay libertad sin autoconocimiento.|Aforismo anónimo|AutorDesconocido76.jpg|Destellos|Frase
+559|Toda guerra es primero una guerra interior.|Aforismo anónimo|AutorDesconocido47.jpg|Destellos|Frase
+560|El carácter se revela en los pequeños actos, no en los grandes discursos.|Aforismo anónimo|AutorDesconocido48.jpg|Destellos|Frase
+561|La sabiduría no se transmite; hay que atravesarla uno mismo.|Marcel Proust|MarcelProust2.jpg|Destellos|Frase
+562|El alma que contempla la belleza se vuelve bella.|Plotino|Plotino1.jpg|Destellos|Frase
+563|El cuerpo recuerda lo que la mente prefiere olvidar.|Bessel van der Kolk|BesselVanDerKolk3.jpg|Destellos|Frase
+564|Lo que no se practica se olvida; lo que se practica se convierte en quien eres.|Donald Hebb|DonaldHebb2.jpg|Destellos|Frase
+565|El verdadero viaje de descubrimiento no consiste en buscar nuevos paisajes, sino en tener nuevos ojos.|Marcel Proust|MarcelProust3.jpg|Destellos|Frase
+566|Quien tiene salud tiene esperanza; quien tiene esperanza tiene todo.|Proverbio árabe|AutorDesconocido61.jpg|Destellos|Frase
+567|La paz no es la ausencia de conflicto, sino la capacidad de manejarlo con gracia.|Aforismo anónimo|AutorDesconocido62.jpg|Destellos|Frase
+568|No hay peor sordo que el que no quiere oír.|Proverbio español|AutorDesconocido68.jpg|Destellos|Frase
+569|La mente bien cultivada es aquella que sabe dudar con elegancia.|Aforismo anónimo|AutorDesconocido67.jpg|Destellos|Frase
+570|Hay dos tipos de dolor: el que te hace daño y el que te cambia.|Aforismo anónimo|AutorDesconocido50.jpg|Destellos|Frase
+571|No hay mayor señal de locura que hacer la misma cosa y esperar resultados diferentes.|Aforismo anónimo|AutorDesconocido39.jpg|Destellos|Frase
+572|La complejidad es el enemigo de la ejecución.|Tony Robbins|TonyRobbins2.jpg|Destellos|Frase
+573|El miedo y la fe tienen algo en común: ambos piden que creas en algo que no puedes ver.|Aforismo anónimo|AutorDesconocido46.jpg|Destellos|Frase
+574|La diferencia entre lo ordinario y lo extraordinario es ese pequeño extra.|Jimmy Johnson|JimmyJohnson1.jpg|Destellos|Frase
+575|Nuestras decisiones revelan nuestros valores mejor que nuestras palabras.|Aforismo anónimo|AutorDesconocido66.jpg|Destellos|Frase
+576|No hay camino que no tenga fin.|Proverbio africano|AutorDesconocido49.jpg|Destellos|Frase
+577|El hábito es el segundo carácter del hombre.|Proverbio latino|AutorDesconocido35.jpg|Destellos|Frase
+578|La soledad bien llevada es la escuela más alta del alma.|Aforismo anónimo|AutorDesconocido54.jpg|Destellos|Frase
+579|No temas crecer lentamente; teme solo quedarte inmóvil.|Proverbio chino|AutorDesconocido71.jpg|Destellos|Frase
+580|La palabra que no se dice nunca hace daño.|Proverbio japonés|AutorDesconocido72.jpg|Destellos|Frase
+581|Lo bello no es lo que se ve, sino lo que se siente.|Aforismo anónimo|AutorDesconocido73.jpg|Destellos|Frase
+582|La gratitud convierte lo común en extraordinario.|Aforismo anónimo|AutorDesconocido74.jpg|Destellos|Frase
+583|El silencio es a veces la respuesta más elocuente.|Aforismo anónimo|AutorDesconocido75.jpg|Destellos|Frase
+584|La belleza salvará al mundo.|Fiódor Dostoievski|FiodorDostoievski1.jpg|Destellos|Frase
+585|No existe el fracaso, solo el feedback.|Aforismo anónimo|AutorDesconocido45.jpg|Destellos|Frase
+586|La vejez no es una enfermedad, es una victoria.|Maggie Kuhn|MaggieKuhn1.jpg|Destellos|Frase
+587|Quien lucha puede perder; quien no lucha ya perdió.|Bertolt Brecht|BertoltBrecht1.jpg|Destellos|Frase
+588|No hay viento favorable para el que no sabe adónde va.|Séneca|Seneca2.jpg|Destellos|Frase
+589|La confianza es más difícil de recuperar que de construir.|Aforismo anónimo|AutorDesconocido57.jpg|Destellos|Frase
+590|El miedo al juicio ajeno es la prisión más común y la más invisible.|Aforismo anónimo|AutorDesconocido58.jpg|Destellos|Frase
+591|No busques seguridad; busca libertad. La seguridad es una ilusión.|Aforismo anónimo|AutorDesconocido59.jpg|Destellos|Frase
+592|La mente que aprende a soltar encuentra más espacio para crecer.|Aforismo anónimo|AutorDesconocido70.jpg|Destellos|Frase
+593|Toda crisis es una oportunidad disfrazada de problema.|Aforismo anónimo|AutorDesconocido69.jpg|Destellos|Frase
+594|El pasado es un lugar de aprendizaje, no de residencia.|Aforismo anónimo|AutorDesconocido31.jpg|Destellos|Frase
+595|No hay atajos hacia un lugar que valga la pena ir.|Beverly Sills|BeverlySills1.jpg|Destellos|Frase
+596|La claridad mental comienza con el orden físico.|Aforismo anónimo|AutorDesconocido36.jpg|Destellos|Frase
+597|El propósito de la vida es una vida con propósito.|Robert Byrne|RobertByrne1.jpg|Destellos|Frase
+598|No desperdices palabras en personas que merecen tu silencio.|Aforismo anónimo|AutorDesconocido51.jpg|Destellos|Frase
+599|El oxígeno de la mente es la duda.|Aforismo anónimo|AutorDesconocido33.jpg|Destellos|Frase
+600|La mente que no duda nunca creció.|Aforismo anónimo|AutorDesconocido63.jpg|Destellos|Frase
+601|Cuando dejas de compararte, empiezas a vivir.|Aforismo anónimo|AutorDesconocido64.jpg|Destellos|Frase
+602|El sufrimiento es opcional cuando tienes las herramientas para observarlo sin identificarte con él.|Aforismo anónimo|AutorDesconocido65.jpg|Destellos|Frase
+603|No hay mayor riqueza que la sabiduría; no hay mayor pobreza que la ignorancia.|Proverbio árabe|AutorDesconocido30.jpg|Destellos|Frase
+604|Cuando cambias la forma en que ves las cosas, las cosas que ves cambian.|Wayne Dyer|WayneDyer1.jpg|Destellos|Frase
+605|La felicidad no es una estación a la que se llega, sino una forma de viajar.|Margaret Lee Runbeck|MargaretLeeRunbeck1.jpg|Destellos|Frase
+606|No puedes enseñarle nada a un hombre; solo puedes ayudarlo a encontrar la respuesta dentro de sí mismo.|Galileo Galilei|GalileoGalilei1.jpg|Destellos|Frase
+607|La mente es su propio lugar y puede hacer un cielo del infierno o un infierno del cielo.|John Milton|JohnMilton1.jpg|Destellos|Frase
+608|El que no arriesga no cruza el mar.|Proverbio portugués|AutorDesconocido32.jpg|Destellos|Frase
+609|Las grandes almas tienen voluntades; las débiles tan solo deseos.|Proverbio chino|AutorDesconocido55.jpg|Destellos|Frase
+610|El universo no te debe nada; tú le debes todo al universo.|Aforismo anónimo|AutorDesconocido56.jpg|Destellos|Frase
+611|No temas a la perfección; nunca la alcanzarás.|Salvador Dalí|SalvadorDali1.jpg|Destellos|Frase
+612|La gratitud es la vacuna, el antitoxina y el antiséptico de todas las pasiones.|Aforismo anónimo|AutorDesconocido38.jpg|Destellos|Frase
+613|El cerebro es el único órgano que mejora con el uso.|Aforismo anónimo|AutorDesconocido41.jpg|Destellos|Frase
+614|Una vida bien vivida es la mejor respuesta a tus enemigos.|Aforismo anónimo|AutorDesconocido42.jpg|Destellos|Frase
+615|No hay nada permanente excepto el cambio.|Heráclito|Heraclito1.jpg|Destellos|Frase
+616|La sabiduría empieza en la perplejidad.|Sócrates|Socrates2.jpg|Destellos|Frase

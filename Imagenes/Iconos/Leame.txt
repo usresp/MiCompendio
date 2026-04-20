@@ -1,0 +1,9 @@
+//Compendio: Una colecciÃ³n organizada de frases o citas.
+//https://rgbcolorpicker.com/565 PALETA DE COLORES
+//https://www.iloveimg.com/ redimencionar 
+//https://www.fotor.com/es/features/background-changer/ cambiar fondo
+// redimensionar Imagenes FRASES a  70x93 extensiÃ³n .jpg
+// redimensionar Imagenes NEUROCIENCIA a  80x70 extensiÃ³n .jpg
+// redimensionar iconos OPCIONES a  25x23 extensiÃ³n .jpg
+//https://macsbug.wordpress.com/2022/08/17/esp32-2432s028/ esquema del dispositivo
+//CORDENADAS DEL TOUCH SCREEN

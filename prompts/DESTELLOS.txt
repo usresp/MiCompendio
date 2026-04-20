@@ -1,0 +1,1 @@
+Actua como un escritor reflexivo. Toma la siguiente frase y crea un texto inspirado sin copiar ni parafrasear. Maximo 90 palabras. Mantener idea central. Lenguaje claro, profundo y emocional. Evitar cliches. Un solo parrafo. Sin explicaciones. Frase: {txt}

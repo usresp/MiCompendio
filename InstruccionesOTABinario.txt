@@ -1,0 +1,25 @@
+///////////////////////////////////////////
+RUTA DE LOS BINARIOS Y LAS ESTRUCTURAS
+C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiCompendio\
+/Imagenes
+/Listas
+/Binarios
+/Domitica
+/Configuracion
+////////////////////////////////////////////
+///////////////////////////////////////////
+RUTA FUENTES/ arduino
+C:\MEDIOS\ProyectosArduinoFZ\MICompendio
+///////////////////////////////////////////
+
+PASOS PARA ACTUALIZAR EL DISPOSITIVO COMPENDIO DESDE INTERNET
+////////////////////////////////////////////////////////////////////////////////////
+1. Compilar en ID arduino y generar el sketch_program.ino.bin  Menu  --> /sketch/generarBinario
+   al compilar lo deja en el proyecto C:\MEDIOS\ProyectosArduinoFZ\MICompendio\sketch_program\build\esp32.esp32.esp32
+2. Copiar sketch_program.ino.bin al Repositorio GITHUT C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiCompendio\Binarios
+   cp C:\MEDIOS\ProyectosArduinoFZ\MICompendio\sketch_program\build\esp32.esp32.esp32/sketch_program.ino.bin C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiCompendio\Binarios\
+3. Cambiar la version en: C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiCompendio\Binarios\Version.txt  (necesario para que el compendio pueda actualizar.) debe ser una version superior.
+4. Ejecutar en C:\MEDIOS\ProyectosArduinoFZ\1-ProyectosESP-GitHub\MiCompendio
+   PrepararYEnviarA-GITHUB.bat
+5. Finalizando ya se envió toda la estructrura y el binario para proceder actualizar el compendio.
+////////////////////////////////////////////////////////////////////////////////////////////////
