@@ -1,6 +1,5 @@
 /InstruccionesOTABinario.txt
 /ListaArchivosGlobal-cruda.txt
-/PrepararYEnviarA-GITHUB - copia.bat
 /PrepararYEnviarA-GITHUB.bat
 /Binarios/sketch_program.ino.bin
 /Binarios/Version.txt
@@ -1407,139 +1406,82 @@
 /Imagenes/Emociones/AutorDesconocido81.jpg
 /Imagenes/Emociones/emociones70x90.jpg
 /Imagenes/Emociones/emociones70x93.jpg
-/Imagenes/Iconos/21 - copia.jpg
-/Imagenes/Iconos/21-80x70 - copia.jpg
 /Imagenes/Iconos/21-80x70.jpg
 /Imagenes/Iconos/21.jpg
-/Imagenes/Iconos/aburrimiento - copia.jpg
 /Imagenes/Iconos/aburrimiento.jpg
 /Imagenes/Iconos/aburrimiento65x33-.jpg
 /Imagenes/Iconos/aburrimiento65x33.jpg
-/Imagenes/Iconos/accesodirecto - copia.png
 /Imagenes/Iconos/accesodirecto.png
-/Imagenes/Iconos/AccesoDirecto25x23 - copia.jpg
 /Imagenes/Iconos/AccesoDirecto25x23.jpg
-/Imagenes/Iconos/ActualizarFestivos - copia.jpg
 /Imagenes/Iconos/ActualizarFestivos.jpg
-/Imagenes/Iconos/ActualizarFestivos80x70 - copia.jpg
 /Imagenes/Iconos/ActualizarFestivos80x70.jpg
-/Imagenes/Iconos/Acuario - copia.jpg
 /Imagenes/Iconos/Acuario.jpg
-/Imagenes/Iconos/Acuario80x70 - copia.jpg
 /Imagenes/Iconos/Acuario80x70.jpg
-/Imagenes/Iconos/Agua - copia.jpg
 /Imagenes/Iconos/Agua.jpg
-/Imagenes/Iconos/Agua80x70 - copia.jpg
 /Imagenes/Iconos/Agua80x70.jpg
 /Imagenes/Iconos/AlbertEinstein25x23.jpg
-/Imagenes/Iconos/AlbertEinstein80x70 - copia.jpg
 /Imagenes/Iconos/AlbertEinstein80x70.jpg
-/Imagenes/Iconos/AlbertEinsteinFrases - copia.jpg
 /Imagenes/Iconos/AlbertEinsteinFrases.jpg
-/Imagenes/Iconos/AlbertEinsteinIcono - copia.jpg
 /Imagenes/Iconos/AlbertEinsteinIcono.jpg
 /Imagenes/Iconos/alegria.jpg
 /Imagenes/Iconos/alegria65x33-.jpg
 /Imagenes/Iconos/alegria65x33.jpg
-/Imagenes/Iconos/Alimentar - copia.jpg
 /Imagenes/Iconos/Alimentar.jpg
-/Imagenes/Iconos/Alimentar80x70 - copia.jpg
 /Imagenes/Iconos/Alimentar80x70.jpg
 /Imagenes/Iconos/ansiedad.jpg
-/Imagenes/Iconos/ansiedad65x33 - copia.jpg
 /Imagenes/Iconos/ansiedad65x33-.jpg
 /Imagenes/Iconos/ansiedad65x33.jpg
 /Imagenes/Iconos/ansiedadN.jpg
-/Imagenes/Iconos/AOE - copia.jpg
 /Imagenes/Iconos/AOE.jpg
-/Imagenes/Iconos/ApagarPantalla - copia.jpg
 /Imagenes/Iconos/ApagarPantalla.jpg
-/Imagenes/Iconos/ApagarPantalla80x70 - copia.jpg
 /Imagenes/Iconos/ApagarPantalla80x70.jpg
-/Imagenes/Iconos/Arcade - copia.jpg
 /Imagenes/Iconos/Arcade.jpg
-/Imagenes/Iconos/Arcade80x70 - copia.jpg
-/Imagenes/Iconos/Arcade80x70-OFF - copia.jpg
 /Imagenes/Iconos/Arcade80x70-OFF.jpg
-/Imagenes/Iconos/Arcade80x70-ON - copia.jpg
 /Imagenes/Iconos/Arcade80x70-ON.jpg
 /Imagenes/Iconos/Arcade80x70.jpg
-/Imagenes/Iconos/Arcade80x70Copia - copia.jpg
 /Imagenes/Iconos/Arcade80x70Copia.jpg
 /Imagenes/Iconos/Asombros25x23.jpg
 /Imagenes/Iconos/Asombros80x70.jpg
 /Imagenes/Iconos/AsombrosFull.jpg
-/Imagenes/Iconos/Aurora - copia.jpg
 /Imagenes/Iconos/Aurora.jpg
-/Imagenes/Iconos/Aurora80x70 - copia.jpg
 /Imagenes/Iconos/Aurora80x70.jpg
-/Imagenes/Iconos/balanza - copia.jpg
 /Imagenes/Iconos/balanza.jpg
-/Imagenes/Iconos/balanza80x70 - copia.jpg
 /Imagenes/Iconos/balanza80x70.jpg
-/Imagenes/Iconos/BrocoliOpcion - copia.jpg
 /Imagenes/Iconos/BrocoliOpcion.jpg
 /Imagenes/Iconos/BrocoliOpcion25x23.jpg
-/Imagenes/Iconos/BrocoliSaludable - copia.jpg
 /Imagenes/Iconos/BrocoliSaludable.jpg
-/Imagenes/Iconos/BrocoliSaludable80x70 - copia.jpg
 /Imagenes/Iconos/BrocoliSaludable80x70.jpg
-/Imagenes/Iconos/Calendario1 - copia.jpg
 /Imagenes/Iconos/Calendario1.jpg
-/Imagenes/Iconos/Calendario80x70 - copia.jpg
 /Imagenes/Iconos/Calendario80x70.jpg
-/Imagenes/Iconos/CalendarioOpcion - copia.jpg
 /Imagenes/Iconos/CalendarioOpcion.jpg
-/Imagenes/Iconos/Cancelar25x23 - copia.jpg
 /Imagenes/Iconos/Cancelar25x23.jpg
-/Imagenes/Iconos/Cerebro1 - copia.jpg
 /Imagenes/Iconos/Cerebro1.jpg
-/Imagenes/Iconos/CerebroOpcion - copia.jpg
 /Imagenes/Iconos/CerebroOpcion.jpg
-/Imagenes/Iconos/Ciclar - copia.jpg
 /Imagenes/Iconos/Ciclar.jpg
-/Imagenes/Iconos/Ciclar80x70 - copia.jpg
 /Imagenes/Iconos/Ciclar80x70.jpg
-/Imagenes/Iconos/CirculoCentro - copia.jpg
 /Imagenes/Iconos/CirculoCentro.jpg
-/Imagenes/Iconos/CirculoCentro25x23 - copia.jpg
 /Imagenes/Iconos/CirculoCentro25x23.jpg
-/Imagenes/Iconos/Comfenalco - copia.jpg
 /Imagenes/Iconos/Comfenalco.jpg
-/Imagenes/Iconos/Comfenalco80x70 - copia.jpg
-/Imagenes/Iconos/Comfenalco80x70-OFF - copia.jpg
 /Imagenes/Iconos/Comfenalco80x70-OFF.jpg
-/Imagenes/Iconos/Comfenalco80x70-ON - copia.jpg
 /Imagenes/Iconos/Comfenalco80x70-ON.jpg
 /Imagenes/Iconos/Comfenalco80x70.jpg
-/Imagenes/Iconos/Comfenalco80x70copia - copia.jpg
 /Imagenes/Iconos/Comfenalco80x70copia.jpg
-/Imagenes/Iconos/configuracion - copia.jpg
 /Imagenes/Iconos/configuracion.jpg
-/Imagenes/Iconos/configuracion80x70 - copia.jpg
 /Imagenes/Iconos/configuracion80x70.jpg
-/Imagenes/Iconos/contraste1 - copia.jpg
 /Imagenes/Iconos/contraste1.jpg
-/Imagenes/Iconos/contraste80x70 - copia.jpg
 /Imagenes/Iconos/contraste80x70.jpg
 /Imagenes/Iconos/crecimiento.jpg
 /Imagenes/Iconos/crecimiento65x33-.jpg
 /Imagenes/Iconos/crecimiento65x33.jpg
-/Imagenes/Iconos/Curiosidades1 - copia.jpg
 /Imagenes/Iconos/Curiosidades1.jpg
 /Imagenes/Iconos/Curiosidades25x23.jpg
-/Imagenes/Iconos/Curiosidades80x70 - copia.jpg
 /Imagenes/Iconos/Curiosidades80x70.jpg
-/Imagenes/Iconos/DepurarTabla - copia.jpg
 /Imagenes/Iconos/DepurarTabla.jpg
-/Imagenes/Iconos/DepurarTabla25x23 - copia.jpg
 /Imagenes/Iconos/DepurarTabla25x23.jpg
 /Imagenes/Iconos/Destellos25x23.jpg
 /Imagenes/Iconos/Destellos80x70.jpg
 /Imagenes/Iconos/DestellosFull.jpg
-/Imagenes/Iconos/Drenar - copia.jpg
 /Imagenes/Iconos/Drenar.jpg
-/Imagenes/Iconos/Drenar80x70 - copia.jpg
 /Imagenes/Iconos/Drenar80x70.jpg
 /Imagenes/Iconos/duelo.jpg
 /Imagenes/Iconos/duelo65x33-.jpg
@@ -1558,218 +1500,122 @@
 /Imagenes/Iconos/enfocado.jpg
 /Imagenes/Iconos/enfocado65x33-.jpg
 /Imagenes/Iconos/enfocado65x33.jpg
-/Imagenes/Iconos/EntradaAgua - copia.jpg
 /Imagenes/Iconos/EntradaAgua.jpg
-/Imagenes/Iconos/EntradaAgua80x70 - copia.jpg
 /Imagenes/Iconos/EntradaAgua80x70.jpg
-/Imagenes/Iconos/EntradaAguaAcuario - copia.jpg
 /Imagenes/Iconos/EntradaAguaAcuario.jpg
-/Imagenes/Iconos/EntradaAguaAcuario80x70 - copia.jpg
 /Imagenes/Iconos/EntradaAguaAcuario80x70.jpg
-/Imagenes/Iconos/EntradaAguaCisterna - copia.jpg
 /Imagenes/Iconos/EntradaAguaCisterna.jpg
-/Imagenes/Iconos/EntradaAguaCisterna80x70 - copia.jpg
 /Imagenes/Iconos/EntradaAguaCisterna80x70.jpg
-/Imagenes/Iconos/Expandir - copia.jpg
 /Imagenes/Iconos/Expandir.jpg
-/Imagenes/Iconos/Expandir25x23 - copia.jpg
 /Imagenes/Iconos/Expandir25x23.jpg
-/Imagenes/Iconos/Favorito1 - copia.jpg
 /Imagenes/Iconos/Favorito1.jpg
-/Imagenes/Iconos/Favoritos25x23 - copia.jpg
 /Imagenes/Iconos/Favoritos25x23.jpg
-/Imagenes/Iconos/Favoritos80x70 - copia.jpg
 /Imagenes/Iconos/Favoritos80x70.jpg
 /Imagenes/Iconos/FavoritosBlanco25x23.jpg
 /Imagenes/Iconos/FavoritosBlancoFull.jpg
 /Imagenes/Iconos/FavoritosFull.jpg
-/Imagenes/Iconos/Festivos - copia.jpg
 /Imagenes/Iconos/Festivos.jpg
-/Imagenes/Iconos/Flecha - copia.jpg
 /Imagenes/Iconos/Flecha.jpg
-/Imagenes/Iconos/Flecha80x70 - copia.jpg
 /Imagenes/Iconos/Flecha80x70.jpg
-/Imagenes/Iconos/FlechaDerecha - copia.jpg
 /Imagenes/Iconos/FlechaDerecha.jpg
-/Imagenes/Iconos/FlechaDerecha25x23 - copia.jpg
 /Imagenes/Iconos/FlechaDerecha25x23.jpg
-/Imagenes/Iconos/FlechaIzquierda - copia.jpg
 /Imagenes/Iconos/FlechaIzquierda.jpg
-/Imagenes/Iconos/FlechaIzquierda25x23 - copia.jpg
 /Imagenes/Iconos/FlechaIzquierda25x23.jpg
-/Imagenes/Iconos/Frases1 - copia.jpg
 /Imagenes/Iconos/Frases1.jpg
-/Imagenes/Iconos/Frases80x70 - copia.jpg
 /Imagenes/Iconos/Frases80x70.jpg
-/Imagenes/Iconos/furia - copia.jpg
 /Imagenes/Iconos/furia.jpg
 /Imagenes/Iconos/furia65x33-.jpg
 /Imagenes/Iconos/furia65x33.jpg
-/Imagenes/Iconos/Incendio - copia.jpg
 /Imagenes/Iconos/Incendio.jpg
-/Imagenes/Iconos/Incendio80x70 - copia.jpg
 /Imagenes/Iconos/Incendio80x70.jpg
-/Imagenes/Iconos/Informacion - copia.jpg
 /Imagenes/Iconos/Informacion.jpg
-/Imagenes/Iconos/Informacion80x70 - copia.jpg
 /Imagenes/Iconos/Informacion80x70.jpg
-/Imagenes/Iconos/Interrogacion1 - copia.jpg
 /Imagenes/Iconos/Interrogacion1.jpg
-/Imagenes/Iconos/Interrogacion80x70 - copia.jpg
 /Imagenes/Iconos/Interrogacion80x70.jpg
-/Imagenes/Iconos/Leame - copia.txt
 /Imagenes/Iconos/Leame.txt
-/Imagenes/Iconos/luna - copia.jpg
 /Imagenes/Iconos/luna.jpg
-/Imagenes/Iconos/luna80x70 - copia.jpg
 /Imagenes/Iconos/luna80x70.jpg
-/Imagenes/Iconos/LuzAcuario - copia.jpg
 /Imagenes/Iconos/LuzAcuario.jpg
-/Imagenes/Iconos/LuzAcuario1 - copia.jpg
 /Imagenes/Iconos/LuzAcuario1.jpg
-/Imagenes/Iconos/LuzAcuario1_80x70 - copia.jpg
 /Imagenes/Iconos/LuzAcuario1_80x70.jpg
-/Imagenes/Iconos/LuzAcuario80x70 - copia.jpg
 /Imagenes/Iconos/LuzAcuario80x70.jpg
-/Imagenes/Iconos/LuzParque - copia.jpg
 /Imagenes/Iconos/LuzParque.jpg
-/Imagenes/Iconos/LuzParque80x70 - copia.jpg
 /Imagenes/Iconos/LuzParque80x70.jpg
-/Imagenes/Iconos/Matera - copia.jpg
 /Imagenes/Iconos/Matera.jpg
-/Imagenes/Iconos/Matera1 - copia.jpg
 /Imagenes/Iconos/Matera1.jpg
-/Imagenes/Iconos/miedo - copia.jpg
 /Imagenes/Iconos/miedo.jpg
 /Imagenes/Iconos/miedo65x33-.jpg
 /Imagenes/Iconos/miedo65x33.jpg
 /Imagenes/Iconos/motivacion.jpg
 /Imagenes/Iconos/motivacion65x33-.jpg
 /Imagenes/Iconos/motivacion65x33.jpg
-/Imagenes/Iconos/Nas1 - copia.jpg
 /Imagenes/Iconos/Nas1.jpg
-/Imagenes/Iconos/Nas80x70 - copia.jpg
-/Imagenes/Iconos/Nas80x70-OFF - copia.jpg
 /Imagenes/Iconos/Nas80x70-OFF.jpg
-/Imagenes/Iconos/Nas80x70-ON - copia.jpg
 /Imagenes/Iconos/Nas80x70-ON.jpg
 /Imagenes/Iconos/Nas80x70.jpg
-/Imagenes/Iconos/Nas80x70copia - copia.jpg
 /Imagenes/Iconos/Nas80x70copia.jpg
-/Imagenes/Iconos/Neuronas - copia.jpg
 /Imagenes/Iconos/Neuronas.jpg
-/Imagenes/Iconos/Neuronas1 - copia.jpg
 /Imagenes/Iconos/Neuronas1.jpg
-/Imagenes/Iconos/Neuronas80x70 - copia.jpg
 /Imagenes/Iconos/Neuronas80x70.jpg
-/Imagenes/Iconos/Neuronas_sin_fondo - copia.png
 /Imagenes/Iconos/Neuronas_sin_fondo.png
-/Imagenes/Iconos/Nublar - copia.jpg
 /Imagenes/Iconos/Nublar.jpg
-/Imagenes/Iconos/Nublar2 - copia.jpg
 /Imagenes/Iconos/Nublar2.jpg
-/Imagenes/Iconos/Nublar280x70 - copia.jpg
 /Imagenes/Iconos/Nublar280x70.jpg
-/Imagenes/Iconos/Nublar80x70 - copia.jpg
 /Imagenes/Iconos/Nublar80x70.jpg
-/Imagenes/Iconos/Ordenadores1 - copia.jpg
 /Imagenes/Iconos/Ordenadores1.jpg
-/Imagenes/Iconos/Ordenadores80x70 - copia.jpg
 /Imagenes/Iconos/Ordenadores80x70.jpg
-/Imagenes/Iconos/OTA - copia.jpg
 /Imagenes/Iconos/OTA.jpg
-/Imagenes/Iconos/OTA80x70 - copia.jpg
 /Imagenes/Iconos/OTA80x70.jpg
-/Imagenes/Iconos/PaletaColor - copia.jpg
 /Imagenes/Iconos/PaletaColor.jpg
-/Imagenes/Iconos/PaletaColor1 - copia.jpg
 /Imagenes/Iconos/PaletaColor1.jpg
-/Imagenes/Iconos/PaletaColor80X70 - copia.jpg
 /Imagenes/Iconos/PaletaColor80X70.jpg
-/Imagenes/Iconos/planta - copia.jpg
 /Imagenes/Iconos/planta.jpg
-/Imagenes/Iconos/planta80x70 - copia.jpg
 /Imagenes/Iconos/planta80x70.jpg
-/Imagenes/Iconos/Pomodoro - copia.jpg
 /Imagenes/Iconos/Pomodoro.jpg
-/Imagenes/Iconos/pomodoro1 - copia.jpg
 /Imagenes/Iconos/pomodoro1.jpg
-/Imagenes/Iconos/PomodoroDibujo - copia.jpg
 /Imagenes/Iconos/PomodoroDibujo.jpg
 /Imagenes/Iconos/procastinar.jpg
 /Imagenes/Iconos/procastinar65x33-.jpg
 /Imagenes/Iconos/procastinar65x33.jpg
-/Imagenes/Iconos/Pruebas - copia.jpg
 /Imagenes/Iconos/Pruebas.jpg
-/Imagenes/Iconos/Pruebas80x70 - copia.jpg
 /Imagenes/Iconos/Pruebas80x70.jpg
-/Imagenes/Iconos/Reset - copia.jpg
 /Imagenes/Iconos/Reset.jpg
-/Imagenes/Iconos/Reset80x70 - copia.jpg
 /Imagenes/Iconos/Reset80x70.jpg
 /Imagenes/Iconos/Resonancias25x23.jpg
 /Imagenes/Iconos/Resonancias80x70.jpg
 /Imagenes/Iconos/ResonanciasFull.jpg
-/Imagenes/Iconos/Respiracion - copia.jpg
 /Imagenes/Iconos/Respiracion.jpg
 /Imagenes/Iconos/Rituales25x23.jpg
 /Imagenes/Iconos/Rituales80x70.jpg
 /Imagenes/Iconos/RitualesFull.jpg
-/Imagenes/Iconos/SensorAgua - copia.jpg
 /Imagenes/Iconos/SensorAgua.jpg
-/Imagenes/Iconos/SensorAgua80x70 - copia.jpg
 /Imagenes/Iconos/SensorAgua80x70.jpg
-/Imagenes/Iconos/Sensores - copia.jpg
 /Imagenes/Iconos/Sensores.jpg
-/Imagenes/Iconos/Sensores1 - copia.jpg
 /Imagenes/Iconos/Sensores1.jpg
-/Imagenes/Iconos/Sensores80x70 - copia.jpg
 /Imagenes/Iconos/Sensores80x70.jpg
-/Imagenes/Iconos/SensoresAll - copia.jpg
 /Imagenes/Iconos/SensoresAll.jpg
-/Imagenes/Iconos/Setting - copia.jpg
 /Imagenes/Iconos/Setting.jpg
-/Imagenes/Iconos/Setting80x70 - copia.jpg
 /Imagenes/Iconos/Setting80x70.jpg
-/Imagenes/Iconos/Sleep - copia.jpg
 /Imagenes/Iconos/Sleep.jpg
-/Imagenes/Iconos/Sleep80x70 - copia.jpg
 /Imagenes/Iconos/Sleep80x70.jpg
-/Imagenes/Iconos/Stanford - copia.jpg
 /Imagenes/Iconos/Stanford.jpg
-/Imagenes/Iconos/Stanford80x70 - copia.jpg
 /Imagenes/Iconos/Stanford80x70.jpg
-/Imagenes/Iconos/StreetFighter - copia.jpg
 /Imagenes/Iconos/StreetFighter.jpg
-/Imagenes/Iconos/StreetFighter80x70 - copia.jpg
 /Imagenes/Iconos/StreetFighter80x70.jpg
-/Imagenes/Iconos/SwFiltro - copia.jpg
 /Imagenes/Iconos/SwFiltro.jpg
-/Imagenes/Iconos/SwFiltro80x70 - copia.jpg
 /Imagenes/Iconos/SwFiltro80x70.jpg
-/Imagenes/Iconos/Telegram - copia.jpg
 /Imagenes/Iconos/Telegram.jpg
-/Imagenes/Iconos/Telegram25x23 - copia.jpg
 /Imagenes/Iconos/Telegram25x23.jpg
-/Imagenes/Iconos/tristeza - copia.jpg
 /Imagenes/Iconos/tristeza.jpg
 /Imagenes/Iconos/tristeza65x33-.jpg
 /Imagenes/Iconos/tristeza65x33.jpg
-/Imagenes/Iconos/UpdateInternet - copia.jpg
 /Imagenes/Iconos/UpdateInternet.jpg
-/Imagenes/Iconos/UpdateInternet80x70 - copia.jpg
 /Imagenes/Iconos/UpdateInternet80x70.jpg
-/Imagenes/Iconos/Whatsapp - copia.jpg
 /Imagenes/Iconos/Whatsapp.jpg
-/Imagenes/Iconos/Whatsapp25x23 - copia.jpg
 /Imagenes/Iconos/Whatsapp25x23.jpg
-/Imagenes/Iconos/Wifi1 - copia.jpg
 /Imagenes/Iconos/Wifi1.jpg
-/Imagenes/Iconos/Wifi80x70 - copia.jpg
 /Imagenes/Iconos/Wifi80x70.jpg
-/Imagenes/Iconos/X - copia.jpg
 /Imagenes/Iconos/X.jpg
-/Imagenes/Iconos/X25x23 - copia.jpg
 /Imagenes/Iconos/X25x23.jpg
 /Imagenes/Resonancias/AutorDesconocido1.jpg
 /Imagenes/Resonancias/AutorDesconocido10.jpg

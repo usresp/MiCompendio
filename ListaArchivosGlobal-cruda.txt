@@ -1,17 +1,11 @@
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\InstruccionesOTABinario.txt
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\ListaArchivosGlobal-cruda.txt
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\PrepararYEnviarA-GITHUB - copia.bat
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\PrepararYEnviarA-GITHUB.bat
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\AUTO_MERGE
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\COMMIT_EDITMSG
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\config
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\description
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\FETCH_HEAD
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\HEAD
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\index
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\MERGE_MSG
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\ORIG_HEAD
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\REBASE_HEAD
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\hooks\applypatch-msg.sample
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\hooks\commit-msg.sample
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\hooks\fsmonitor-watchman.sample
@@ -28,8 +22,8 @@ C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\hooks\sendemail-validate.sample
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\hooks\update.sample
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\info\exclude
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\logs\HEAD
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\logs\refs\heads\master
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\logs\refs\remotes\origin\master
+C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\logs\refs\heads\main
+C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\logs\refs\remotes\origin\main
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\00\4f9e468e54f18fd3bf41bb9c4f5ff3ba0c8852
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\00\5e098afb10e34106731f61bc2ccd16ecac48b2
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\00\68f405541e9868db21964d48dc80496098432f
@@ -144,6 +138,7 @@ C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\0a\84b9b06912cdd6269997
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\0a\c1d4d417f45c0739373fca37daf1fba2ce8746
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\0a\ee92650f65540b63ac898102704267f294cf9c
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\0b\297a2ebf0f8d16125ced38c0fecd7cbce00cd2
+C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\0b\42718ac093872bfe50ed1f68dce13dc9ae67c1
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\0b\8edd272a78e5ff7876d20df2e7f8a503325d13
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\0b\ae5cda9fe0681fc013da6f0753e75e326430b7
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\0b\eddaf8f7fd1fec3a625b75d80647d15c4d8b0d
@@ -569,7 +564,6 @@ C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\36\9e38d2198902031dfbd7
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\36\b81a93a1da6d0343c924d3bd488d7bf506753e
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\36\ce717d0d9a294eb87b8178d879da8a2d45191e
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\36\f9fb85d750c0ca2d82793ecea9894b7ece10d0
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\37\0778a8198bab9b4c90ffc21a6ee277e192c6eb
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\37\3450b4f2f867709ddee9556101179c2cb4b9ef
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\37\5c69df9717eba886d0936eb221d675a31e58a1
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\37\96d19a1c14977f63b378583995e66a83c3403c
@@ -589,7 +583,6 @@ C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\38\d2f9a972c473c4c04096
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\38\de4c486d0c6a76aa48590ea723626cf46d7af7
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\39\1e0321015e2c129e232217a5db34bcb278ddd8
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\39\1fb249b620d1cd426c0381f1cf8a0b9a61712d
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\39\64280d35f35b618424d67960aae586d06d75a7
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\39\a2753d8e2ac945678d5e80654b05b04b80e38d
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\39\a3886e7a9f8381de629b7732a7bc0e5463a891
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\39\ba4b0cdabcbc3b45b3bdf6181d85c460347add
@@ -1016,7 +1009,6 @@ C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\66\d0005c5161423ca3bb7d
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\67\14d662a71474b2bb7367e71d153934fcb1ff2e
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\67\37aa9b74d0257bc2e0928e01532fc031a0ac2c
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\67\42e14d217a2edb6576f80b4e9c3f71225a7642
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\67\7cb3a305ba7308a4b443bdd27d6889c4a193e2
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\67\912888a4260e4dc0f5475313f45bb9b1ff1d1f
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\67\9697e0b55c3249dc9c87f3e7639ef9681a041f
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\67\d5060eac97cee775d996454e34dc9bab066ce5
@@ -1199,7 +1191,6 @@ C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\77\d0add49f219efb3944b6
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\77\f527d0efb744ed8790fea5f7e9bf4aa102862c
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\78\041cf0abc6b965c3fb63bf39fafc90e8783ec8
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\78\0c2f8e682ede4a924e7d2d9917ff63966f04c5
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\78\0f0222019f873a69426bea88fbece871473798
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\78\127d01dc975626f1e7316d2cbeab3b4e58cb24
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\78\4126115c7147f1943a1444962ab2c6ab2b994c
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\78\49b427bef06e5d9471ab39fe287f0f4c078ff4
@@ -1345,6 +1336,7 @@ C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\86\da711705e1e8032170b8
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\86\dc210714c796f09fc9a6a75b9c5f6df1179956
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\86\fdb7c8df7cba13545aa0b9ff7293a14cf5a2aa
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\87\18bdab60ee1be14236a0a2355ce11dd928fe14
+C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\87\56bfec7f309d170230f525c30e16e1471ff457
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\87\8932f58a5f0c27a2186c106e3e87e86bb6392b
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\87\9efa7446c45cc327c592e09f3dde4a75596a67
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\87\b30dfe4f308366cbb9fee1ab4c407db116962a
@@ -1432,7 +1424,6 @@ C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\90\6ecc3cd3c93373c07bf0
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\90\82554446004b0d2a3b37217aac0c1b7085e585
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\90\ac0d52de2bca1b9004143d06b42e0c689f2611
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\90\e77ef5c24037bb50da1febf645d6bc66c6b382
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\90\f92f7d4dcfb4de4f5bf6082d763d5fcef65781
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\91\01cb113062466b6b82cc6fb02e34146530238e
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\91\09821bd50506bbe51ae97b587907ae16506562
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\91\1f0aed7e897d9601f3a77cbe9d583d730a6a7b
@@ -1445,7 +1436,6 @@ C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\91\809d7dcce5e42cdab825
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\91\9e67f5d113d5b34a10af2ff6b983c4f7b98592
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\91\aa574dc5945eb1a05c9669930e0c0a5b968cae
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\91\d3467e3fd387b3b0c09507346bd816433affc0
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\91\ebe30eca080a106b7bed2fdc275151dd3b0b50
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\91\f878a212b40935e6333eef0cd459b14a76f16c
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\91\fcf1d9f10d79c2f7fa280c1bd5e96a65694557
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\92\00640e9af2e3a0d571e1e5e78b9466c4d1b449
@@ -1528,7 +1518,6 @@ C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\99\7ab0ca1f0ede1db9c241
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\99\86d87e030385e53177af5871e44edcf29f9eb2
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\99\9cb57833813761de6983506c5cf2d0d6094f58
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\99\a6ba94fe7801539244da3095066e0e389c5d4a
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\99\d5a7a204f1c03e2723d3464f561a09c5aea3aa
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\99\e7cb44f0bd60af667af1e3ff5d2263d0f81bc2
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\9a\1ee7bcd70a611fcd93d91e82d2d6c36ab5c26c
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\9a\2158bdd1b3887b493cc5ecc38b1a6b1fe7466f
@@ -1559,7 +1548,6 @@ C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\9c\3375bd2aaa89aa3ee772
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\9c\3f87b00dc9de4ec499471b9f2a19ab40250590
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\9c\747da0812024580b07c31be89f428737c8030d
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\9c\7a9064733f8cd7fe15361f71b2bb9fc6eb5338
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\9c\8f6f4b40433a093257e3f1a94d05df7dc31b75
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\9c\a3d6b8b1cf00310b429dfc441ac6a7962ff9ae
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\9c\c57e04797989e883a53a7fc59f17126a192520
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\9c\d62db17f0417c72c7daf9e4b5b16da257663b6
@@ -1594,6 +1582,7 @@ C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\9f\52d16a8ac57d1dafc79c
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\9f\621512cefd62b0ca12f8680db7ab37e900f77b
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\9f\953dbc7785eb255c9133055b45d29ece7af230
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\9f\9bf130e2c22543abaf2612ff384849a7af4c04
+C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\9f\bcae964121cfe208549eab9d424315d5da4aed
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\9f\c1222d7ea685471f881b0f684cc2920b4b20e6
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\9f\f69b7c5e38f5371c52070109d9ce3a67a63be8
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\a0\09a1caeb9db81715568be091645807925edd0a
@@ -1619,7 +1608,6 @@ C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\a1\e50afd76a94c5818641c
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\a1\ef26d2f48d56df137f33d43f7b49c9e44fe83a
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\a2\0c2f3c9c3d24df5380b856866feb677cbf5ed5
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\a2\59905388fa0201d38954d296903bf5a7d9d4bc
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\a2\70cba3e4600d3ace26a3848815d8f085170a2b
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\a2\93842fa4ec49c43135c56b6baa85f3c27cad6e
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\a2\9a6213027a6a431d21269a3f4f9cc84896cc56
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\a2\9f5b4b297ed0dc70fddbb37a46ba9d0422e567
@@ -1691,6 +1679,7 @@ C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\a9\7b9b0799222ed1181e42
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\a9\8ea2bd6287a9b17aaa85f3eb584353af121abb
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\a9\9d8d3ad1f0f12f35f4d0dced032bf0da277bf3
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\a9\b36e3b026018ea0eaf51f5b6642c36a115bcf5
+C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\a9\c1f4ce7ddb45b7cfbfbb940871bd543c3a9f5f
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\a9\c4cc899e92bda2275a3b464bf7470d92224014
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\aa\021a1302f13ce38ed4966a2d34108f67fb63df
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\aa\1983d957ec449edd62bf1668167b79cbc70d4b
@@ -1859,6 +1848,7 @@ C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\b9\2f7ab68d3b1849337696
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\b9\3c2d0bf4969450599133c031b357e2747985e8
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\b9\3e12c547d192f5defaf4a77be9ac60cedf9ca7
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\b9\408ab7ee1cc78c41732a45aec3628826cb4240
+C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\b9\676ff841b36204f65325ecdacf7a03758b235e
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\b9\7f0058d9b483cea0cc99eae80d41700c46482c
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\b9\880b67756bb2c0ad7cbd9c4f22203cb82616b3
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\b9\9d8c2c1f77be5090f4d1a2b82bbfd2c5227239
@@ -1880,7 +1870,6 @@ C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\ba\35dab4c0cffbb885c245
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\ba\51222915ddf0fa1631787b18e1cea8cd559901
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\ba\6ca242d69701277afce896f65f9056822816ed
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\ba\7cbb5ad31fab2bd9496292a689d9d626f37277
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\ba\81250b536e8d008c78f33621b5f2c7a8316520
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\ba\90cf940c55072a8417a778587ad7981323a76d
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\ba\c2de77f0f696d7309a8bf950beab2844f99b66
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\ba\e3e5e1c9342ed2f364a247a2e92c28f870e390
@@ -2154,6 +2143,7 @@ C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\da\3cf59f0fb47fd79b579f
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\da\4177ea42cc2ace697844d7d94efc98c427fc34
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\da\43b43834ff0f9e61e0682eb29bb6eb650171ec
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\da\4b90c985a1b61105c5a162da382a8d1bf0b29c
+C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\da\551a3a197d8631dd878afbef20f630298a0fa4
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\da\6a1d4232ad04ed325cd7f8d192902d92488ac9
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\da\759d2eab0ff66090c9e8970250e99319755679
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\da\a93d72f6a6a2b0c6fd29836d1b89c82dd26501
@@ -2177,6 +2167,7 @@ C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\dc\7b3b101f36cc8896b4b7
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\dc\7dce6a55f5c545f5571464d05ba5f12cc2b591
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\dd\1a47400075065c967e2d1b5570015f48bb8590
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\dd\237c6bc0fca3238c851608e52bcd4283df02d2
+C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\dd\3c17634b4a9f7aa40904a6e45ed26d3c3c84b6
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\dd\4e3d1c8e78f73bfa20694443964534e73feeca
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\dd\576abba517799ebf6426178707018f575a250d
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\dd\74d5ec4f7189781f39b51df21d6d4c9c799b32
@@ -2220,6 +2211,7 @@ C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\e1\6e750755df52e10b3c82
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\e1\82e3b7687d872e4835bd6ce3946b9d92a33838
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\e1\8f71436927aa45aefc9e3cc7fdeba2db2662be
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\e1\92ff22bccd83e161db310dde8123c2f9977257
+C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\e1\972869f5ead278fd1cc25d4bf6654c1e52bbb6
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\e1\98a8762f5f9ced8e630e26f027cd3067552b24
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\e1\a033df1528e0fee716bef9d79eccf63c4cc3d7
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\e1\a6d604e04aba4949c012f6ae1157c32867fcc2
@@ -2291,7 +2283,6 @@ C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\e7\7bcbb0c961cecfec8992
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\e7\941fe2c0e3441e3298c0ed0ad2d4e306553e05
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\e7\9d76b7dec3041ce0b57473eba7e70b03fe018c
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\e7\a45dcd486f15ce9793b91e630900c8f568944d
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\e7\b83c0e0dd715805368ac4d91fa331171c742e6
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\e7\b93ac5a70ec9cf1aac017fd1569db98a2a8cdc
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\e7\f9909c6cff90dfa4e58c0527ea816c22f04910
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\e7\fa5bedcfe29afe8271303ac79bc18f2cb2b336
@@ -2383,6 +2374,7 @@ C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\f1\7e8bc72c7303d1e2c3ea
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\f1\97fb42993a1cb1a98c13e6f5aaefa5640f5da1
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\f1\982d7f91f0b3e7cb3a893ee8d26863f8d2d3e9
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\f1\a256ade6b1761021e6a648f73db0bd36288d4f
+C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\f1\ada1969c30271b36ff6b99a5469b5f2a9fa66a
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\f1\b91f558886de1a67fc530cdede66b33cba0b13
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\f1\dbf597e99169e5c6c3bafd235d1080d4465b9d
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\f2\2b8e7a83949d9b57824303f0c866d1db397740
@@ -2508,26 +2500,8 @@ C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\ff\60693dc93150afc60643
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\ff\8385d5eb8813b7ba1b9c9d8bb8adb27a8a5bef
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\ff\83bbc341b51d1f8aae8d346f67ab891ec5bfe1
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\ff\f1e76aae793d161837e1746a53f3a669c42c44
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\pack\pack-3d3c8d0e04642a6e6016a0f3ae5304548b51ef8e.idx
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\pack\pack-3d3c8d0e04642a6e6016a0f3ae5304548b51ef8e.pack
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\pack\pack-3d3c8d0e04642a6e6016a0f3ae5304548b51ef8e.rev
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\rebase-merge\author-script
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\rebase-merge\done
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\rebase-merge\drop_redundant_commits
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\rebase-merge\end
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\rebase-merge\git-rebase-todo
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\rebase-merge\git-rebase-todo.backup
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\rebase-merge\head-name
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\rebase-merge\interactive
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\rebase-merge\message
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\rebase-merge\msgnum
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\rebase-merge\no-reschedule-failed-exec
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\rebase-merge\onto
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\rebase-merge\orig-head
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\rebase-merge\patch
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\rebase-merge\stopped-sha
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\refs\heads\master
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\refs\remotes\origin\master
+C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\refs\heads\main
+C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\refs\remotes\origin\main
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Binarios\sketch_program.ino.bin
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Binarios\Version.txt
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Configuracion\Configuracion.txt
@@ -3936,139 +3910,82 @@ C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Emociones\AutorDesconocido7
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Emociones\AutorDesconocido81.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Emociones\emociones70x90.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Emociones\emociones70x93.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\21 - copia.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\21-80x70 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\21-80x70.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\21.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\aburrimiento - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\aburrimiento.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\aburrimiento65x33-.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\aburrimiento65x33.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\accesodirecto - copia.png
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\accesodirecto.png
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\AccesoDirecto25x23 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\AccesoDirecto25x23.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\ActualizarFestivos - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\ActualizarFestivos.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\ActualizarFestivos80x70 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\ActualizarFestivos80x70.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Acuario - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Acuario.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Acuario80x70 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Acuario80x70.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Agua - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Agua.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Agua80x70 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Agua80x70.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\AlbertEinstein25x23.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\AlbertEinstein80x70 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\AlbertEinstein80x70.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\AlbertEinsteinFrases - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\AlbertEinsteinFrases.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\AlbertEinsteinIcono - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\AlbertEinsteinIcono.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\alegria.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\alegria65x33-.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\alegria65x33.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Alimentar - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Alimentar.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Alimentar80x70 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Alimentar80x70.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\ansiedad.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\ansiedad65x33 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\ansiedad65x33-.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\ansiedad65x33.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\ansiedadN.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\AOE - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\AOE.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\ApagarPantalla - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\ApagarPantalla.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\ApagarPantalla80x70 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\ApagarPantalla80x70.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Arcade - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Arcade.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Arcade80x70 - copia.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Arcade80x70-OFF - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Arcade80x70-OFF.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Arcade80x70-ON - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Arcade80x70-ON.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Arcade80x70.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Arcade80x70Copia - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Arcade80x70Copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Asombros25x23.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Asombros80x70.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\AsombrosFull.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Aurora - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Aurora.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Aurora80x70 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Aurora80x70.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\balanza - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\balanza.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\balanza80x70 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\balanza80x70.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\BrocoliOpcion - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\BrocoliOpcion.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\BrocoliOpcion25x23.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\BrocoliSaludable - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\BrocoliSaludable.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\BrocoliSaludable80x70 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\BrocoliSaludable80x70.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Calendario1 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Calendario1.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Calendario80x70 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Calendario80x70.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\CalendarioOpcion - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\CalendarioOpcion.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Cancelar25x23 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Cancelar25x23.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Cerebro1 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Cerebro1.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\CerebroOpcion - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\CerebroOpcion.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Ciclar - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Ciclar.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Ciclar80x70 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Ciclar80x70.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\CirculoCentro - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\CirculoCentro.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\CirculoCentro25x23 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\CirculoCentro25x23.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Comfenalco - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Comfenalco.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Comfenalco80x70 - copia.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Comfenalco80x70-OFF - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Comfenalco80x70-OFF.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Comfenalco80x70-ON - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Comfenalco80x70-ON.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Comfenalco80x70.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Comfenalco80x70copia - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Comfenalco80x70copia.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\configuracion - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\configuracion.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\configuracion80x70 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\configuracion80x70.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\contraste1 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\contraste1.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\contraste80x70 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\contraste80x70.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\crecimiento.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\crecimiento65x33-.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\crecimiento65x33.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Curiosidades1 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Curiosidades1.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Curiosidades25x23.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Curiosidades80x70 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Curiosidades80x70.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\DepurarTabla - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\DepurarTabla.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\DepurarTabla25x23 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\DepurarTabla25x23.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Destellos25x23.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Destellos80x70.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\DestellosFull.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Drenar - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Drenar.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Drenar80x70 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Drenar80x70.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\duelo.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\duelo65x33-.jpg
@@ -4087,218 +4004,122 @@ C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\enfermo65x33.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\enfocado.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\enfocado65x33-.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\enfocado65x33.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\EntradaAgua - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\EntradaAgua.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\EntradaAgua80x70 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\EntradaAgua80x70.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\EntradaAguaAcuario - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\EntradaAguaAcuario.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\EntradaAguaAcuario80x70 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\EntradaAguaAcuario80x70.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\EntradaAguaCisterna - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\EntradaAguaCisterna.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\EntradaAguaCisterna80x70 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\EntradaAguaCisterna80x70.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Expandir - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Expandir.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Expandir25x23 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Expandir25x23.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Favorito1 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Favorito1.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Favoritos25x23 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Favoritos25x23.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Favoritos80x70 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Favoritos80x70.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\FavoritosBlanco25x23.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\FavoritosBlancoFull.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\FavoritosFull.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Festivos - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Festivos.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Flecha - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Flecha.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Flecha80x70 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Flecha80x70.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\FlechaDerecha - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\FlechaDerecha.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\FlechaDerecha25x23 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\FlechaDerecha25x23.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\FlechaIzquierda - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\FlechaIzquierda.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\FlechaIzquierda25x23 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\FlechaIzquierda25x23.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Frases1 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Frases1.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Frases80x70 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Frases80x70.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\furia - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\furia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\furia65x33-.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\furia65x33.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Incendio - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Incendio.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Incendio80x70 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Incendio80x70.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Informacion - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Informacion.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Informacion80x70 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Informacion80x70.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Interrogacion1 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Interrogacion1.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Interrogacion80x70 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Interrogacion80x70.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Leame - copia.txt
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Leame.txt
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\luna - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\luna.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\luna80x70 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\luna80x70.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\LuzAcuario - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\LuzAcuario.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\LuzAcuario1 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\LuzAcuario1.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\LuzAcuario1_80x70 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\LuzAcuario1_80x70.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\LuzAcuario80x70 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\LuzAcuario80x70.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\LuzParque - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\LuzParque.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\LuzParque80x70 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\LuzParque80x70.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Matera - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Matera.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Matera1 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Matera1.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\miedo - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\miedo.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\miedo65x33-.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\miedo65x33.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\motivacion.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\motivacion65x33-.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\motivacion65x33.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Nas1 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Nas1.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Nas80x70 - copia.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Nas80x70-OFF - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Nas80x70-OFF.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Nas80x70-ON - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Nas80x70-ON.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Nas80x70.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Nas80x70copia - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Nas80x70copia.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Neuronas - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Neuronas.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Neuronas1 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Neuronas1.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Neuronas80x70 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Neuronas80x70.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Neuronas_sin_fondo - copia.png
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Neuronas_sin_fondo.png
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Nublar - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Nublar.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Nublar2 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Nublar2.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Nublar280x70 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Nublar280x70.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Nublar80x70 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Nublar80x70.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Ordenadores1 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Ordenadores1.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Ordenadores80x70 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Ordenadores80x70.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\OTA - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\OTA.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\OTA80x70 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\OTA80x70.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\PaletaColor - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\PaletaColor.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\PaletaColor1 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\PaletaColor1.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\PaletaColor80X70 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\PaletaColor80X70.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\planta - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\planta.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\planta80x70 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\planta80x70.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Pomodoro - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Pomodoro.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\pomodoro1 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\pomodoro1.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\PomodoroDibujo - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\PomodoroDibujo.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\procastinar.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\procastinar65x33-.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\procastinar65x33.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Pruebas - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Pruebas.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Pruebas80x70 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Pruebas80x70.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Reset - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Reset.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Reset80x70 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Reset80x70.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Resonancias25x23.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Resonancias80x70.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\ResonanciasFull.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Respiracion - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Respiracion.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Rituales25x23.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Rituales80x70.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\RitualesFull.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\SensorAgua - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\SensorAgua.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\SensorAgua80x70 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\SensorAgua80x70.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Sensores - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Sensores.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Sensores1 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Sensores1.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Sensores80x70 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Sensores80x70.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\SensoresAll - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\SensoresAll.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Setting - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Setting.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Setting80x70 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Setting80x70.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Sleep - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Sleep.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Sleep80x70 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Sleep80x70.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Stanford - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Stanford.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Stanford80x70 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Stanford80x70.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\StreetFighter - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\StreetFighter.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\StreetFighter80x70 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\StreetFighter80x70.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\SwFiltro - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\SwFiltro.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\SwFiltro80x70 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\SwFiltro80x70.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Telegram - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Telegram.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Telegram25x23 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Telegram25x23.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\tristeza - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\tristeza.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\tristeza65x33-.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\tristeza65x33.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\UpdateInternet - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\UpdateInternet.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\UpdateInternet80x70 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\UpdateInternet80x70.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Whatsapp - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Whatsapp.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Whatsapp25x23 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Whatsapp25x23.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Wifi1 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Wifi1.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Wifi80x70 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\Wifi80x70.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\X - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\X.jpg
-C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\X25x23 - copia.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Iconos\X25x23.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Resonancias\AutorDesconocido1.jpg
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\Imagenes\Resonancias\AutorDesconocido10.jpg
