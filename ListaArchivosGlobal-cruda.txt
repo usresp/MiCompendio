@@ -923,6 +923,7 @@ C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\5e\1019a21b0fb63ecab515
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\5e\29e39296c9f1ef66025d53c644af22a2b528f5
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\5e\692616aa9b7959fe1c97f0f970634f472b71cb
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\5e\6e3b09e6cd3dd175a61ef62b54464876c34a53
+C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\5e\9bbc57570356784a06da0ec07426cd68e0d7a1
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\5e\b353d2b2a9605943d44a133e33d3ada218d635
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\5e\beb271eb15d7325c3e1152b77c9d1986ac3938
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\5e\c4a99e78846cd1b830533fc9fd0e751d32e4bc
@@ -1128,6 +1129,7 @@ C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\70\c6c6e560c6cb87a7afba
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\71\1df6e245c41af9ab8d764e1f83a9436b535437
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\71\1fa15821f81fb1ee4c14a1dd9631a93f6fe2cc
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\71\3401ca8e36cfdf60e31a46efeab1f8f935b5ec
+C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\71\4b091d84a50dfb3e79e0c627386688511ce30e
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\71\774125124d91a0c54d3d2941d7605f4e4102d9
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\71\b8bf9307b18ed809c9fd0113fb1531d3993665
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\72\0c14e916692b59c76304b957867ba8e770e747
@@ -1670,6 +1672,7 @@ C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\a7\5bcfc9e884cc6670efd3
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\a7\959ec3a2d13f7867acf6fc46eb8ccde38a17ec
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\a7\db633893a46fb22642ec9119283881b907cd37
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\a7\f57a7f2679dc4f646c3b8b215b41fbab83b56d
+C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\a7\f8ab9ec9078677cac4f17a2e20cac900b0babd
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\a8\071b44cc98a11a8fe6814200f0dc45a9c5c587
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\a8\0c8734593b87f72d46cc0f02c98eeaa048c846
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\a8\11a47035c21fc4d94460a7c6030a3aee7cf8ca
@@ -1696,6 +1699,7 @@ C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\aa\1983d957ec449edd62bf
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\aa\253b25e76392fbba1b4dc99cb4b29eea81260f
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\aa\3e9ee306cb6eed7288f1f92e94999ef9755e63
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\aa\4f2c379f989b041265f63244cdd75142cf5979
+C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\aa\55216ab3786a12c4db45b6b406de2ea2e11a46
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\aa\669f97dae1bf2f6fd61a2305fba9e034148681
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\aa\72a1940f6d598abf3161c8d9f2bc644098fb12
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\aa\7391ec51c9b51dbc32ebc0024c95fa8ad43722
@@ -2280,6 +2284,7 @@ C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\e5\12de557d69fc283e0e50
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\e5\1578b00ee02313d269f55d941e5d367b63aa46
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\e5\32654a5c34d77bf70aaf8eebc978420cd53602
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\e5\3d5d2a8eef09966ff42d87ce8e3a930f9e073d
+C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\e5\544c2e6255bad32ef63cb1cc9b4c6fd36f404b
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\e5\992a79f0019ee346798403491c745f32072b15
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\e5\d1e606b09d323612588ef70a9b53a1d8f08fa4
 C:\MEDIOS\2-ProyectosESP-GitHub\MiCompendio\.git\objects\e5\e8518c60439d04d780e9f619a969a3c50eae51
