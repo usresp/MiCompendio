@@ -1611,6 +1611,8 @@
 /Imagenes/Iconos/tristeza65x33.jpg
 /Imagenes/Iconos/UpdateInternet.jpg
 /Imagenes/Iconos/UpdateInternet80x70.jpg
+/Imagenes/Iconos/UpdateSD.jpg
+/Imagenes/Iconos/UpdateSD80x70.jpg
 /Imagenes/Iconos/Whatsapp.jpg
 /Imagenes/Iconos/Whatsapp25x23.jpg
 /Imagenes/Iconos/Wifi1.jpg
